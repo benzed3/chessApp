@@ -1,0 +1,12 @@
+/*styling for header*/
+
+header {
+    height: 100px;
+    background: blanchedalmond;
+}
+
+#headerText {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
