@@ -10,3 +10,19 @@ header {
     text-align: center;
     padding-top: 20px;
 }
+
+/*chessboard styling*/
+
+.row {
+    height: 100px;
+}
+
+.black {
+    background: black;
+    width:15%;
+}
+
+.white {
+    background: white;
+    width: 15%;
+}
