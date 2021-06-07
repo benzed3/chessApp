@@ -17,12 +17,16 @@ header {
     height: 100px;
 }
 
+.square {
+    height: 100%;
+    width: 8%;
+    float: left;
+}
+
 .black {
-    background: black;
-    width:15%;
+    background: brown;
 }
 
 .white {
-    background: white;
-    width: 15%;
+    background: bisque;
 }
