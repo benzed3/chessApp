@@ -1,3 +1,10 @@
+body {
+    background-image: url("backgroundIMG.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 /*styling for header*/
 
 header {
