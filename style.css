@@ -1,8 +1,5 @@
 body {
-    background-image: url("backgroundIMG.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background: bisque;
 }
 
 /*styling for header*/
@@ -20,5 +17,13 @@ header {
     text-align: center;
     padding-top: 20px;
     font-family: 'Lobster', cursive
+}
+
+/*h rank*/
+
+.h {
+    float: left;
+    height: 50px;
+    width: 8%;
 }
 
