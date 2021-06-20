@@ -22,22 +22,3 @@ header {
     font-family: 'Lobster', cursive
 }
 
-/*chessboard styling*/
-
-.row {
-    height: 75px;
-}
-
-.square {
-    height: 100%;
-    width: 6%;
-    float: left;
-}
-
-.black {
-    background: brown;
-}
-
-.white {
-    background: bisque;
-}
