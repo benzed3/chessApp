@@ -1,0 +1,45 @@
+/*body styling*/
+
+body {
+    margin: 0;
+    background: bisque;
+}
+
+/*header styling*/
+
+header {
+    text-align: center;
+    color: brown;
+    background: burlywood;
+    padding: 26px 0 26px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+/*board styling;*/
+
+.white {
+    background: white;
+}
+
+.black {
+    background: black;
+    color: white;
+}
+
+.box {
+    float: left;
+    width: 12%;
+    height: 84px;
+}
+
+h5 {
+    margin: 0;
+}
+
+.wrapper {
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
