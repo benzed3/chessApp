@@ -22,6 +22,26 @@
 
 }
 
+@media screen and (max-width: 736px) {
+
+    .wrapper {
+        margin: 0 11px 0 auto;
+    }
+
+}
+
+@media screen and (max-width: 415px) {
+
+    header {
+        width: 169%;
+    }
+
+    .wrapper {
+        margin: 0 auto 0 13px;
+    }
+
+}
+
 @media screen and (max-width: 376px) {
 
     header {
