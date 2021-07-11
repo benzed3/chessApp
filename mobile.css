@@ -30,6 +30,18 @@
 
 }
 
+@media screen and (max-width: 668px) {
+
+    header {
+        width: 103%;
+    }
+
+    .wrapper {
+        margin: 0 auto 0 8px;
+    }
+
+}
+
 @media screen and (max-width: 415px) {
 
     header {
