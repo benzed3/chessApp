@@ -42,6 +42,14 @@
 
 }
 
+@media screen and (max-width: 568px) {
+
+    header {
+        width: 121%;
+    }
+
+}
+
 @media screen and (max-width: 415px) {
 
     header {
@@ -62,6 +70,14 @@
 
     .wrapper {
         margin: 0 auto 0 13px;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+
+    header {
+        width: 217%;
     }
 
 }
