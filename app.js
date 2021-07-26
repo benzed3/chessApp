@@ -1,13 +1,17 @@
-function allowDrop(ev) {
-    ev.preventDefault();
-}
+var whiteknight = document.getElementById("knighta");
 
-function drag(ev) {
-    ev.dataTransfer.setData("text", ev.target.id);
-}
+whiteknight.addEventListener("touchmove", function (ev) {
 
-function drop(ev) {
-    ev.preventDefault();
-    var data = ev.dataTransfer.getData("text");
-    ev.target.appendChild(document.getElementById(data));
-}
+    var touchLocation = ev.targetTouches[0];
+
+    whiteknight.style.left = touchLocation.pageX + "px";
+    whiteknight.style.top = touchLocation.pageY + "px";
+
+})
+
+whiteknight.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whiteknight.style.left);
+    var y = parseInt(whiteknight.style.top);
+
+})
