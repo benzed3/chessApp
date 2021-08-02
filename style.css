@@ -76,6 +76,8 @@ h5 {
     clear: both;
 }
 
+/*stying for pices*/
+
 #imgwrooka {
     height: 70px;
     width: 70px;
@@ -100,12 +102,24 @@ h5 {
     opacity: 8;
 }
 
-#imgknight {
+#imgwknighta {
     height: 70px;
     width: 60px;
     opacity: 8;
 }
 
-#knighta {
+#whiteknighta {
     position: absolute;
+}
+
+#imgbknighta {
+    height: 70px;
+    width: 60px;
+    opacity: 8;
+}
+
+#imgbknightb {
+    height: 70px;
+    width: 60px;
+    opacity: 8;
 }

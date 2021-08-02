@@ -1,26 +1,26 @@
 //touchmove for knight
 
-var whiteknight = document.getElementById("knighta");
+var whiteknighta = document.getElementById("whiteknighta");
 
-whiteknight.addEventListener("touchmove", function (ev) {
+whiteknighta.addEventListener("touchmove", function (ev) {
 
     var touchLocation = ev.targetTouches[0];
 
-    whiteknight.style.left = touchLocation.pageX + "px";
-    whiteknight.style.top = touchLocation.pageY + "px";
+    whiteknighta.style.left = touchLocation.pageX + "px";
+    whiteknighta.style.top = touchLocation.pageY + "px";
 
 })
 
-whiteknight.addEventListener("touchend", function (ev) {
+whiteknighta.addEventListener("touchend", function (ev) {
 
-    var x = parseInt(whiteknight.style.left);
-    var y = parseInt(whiteknight.style.top);
+    var x = parseInt(whiteknighta.style.left);
+    var y = parseInt(whiteknighta.style.top);
 
 })
 
 //click and drag for knight
 
-dragElement(document.getElementById("knighta"));
+dragElement(document.getElementById("whiteknighta"));
 
 function dragElement(elmnt) {
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
