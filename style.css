@@ -76,9 +76,33 @@ h5 {
     clear: both;
 }
 
+#imgwrooka {
+    height: 70px;
+    width: 70px;
+    opacity: 8;
+}
+
+#imgwrookb {
+    height: 70px;
+    width: 70px;
+    opacity: 8;
+}
+
+#imgbrooka {
+    height: 70px;
+    width: 70px;
+    opacity: 8;
+}
+
+#imgbrookb {
+    height: 70px;
+    width: 70px;
+    opacity: 8;
+}
+
 #imgknight {
-    height: 75px;
-    width: 75px;
+    height: 70px;
+    width: 60px;
     opacity: 8;
 }
 
