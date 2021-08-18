@@ -1,3 +1,111 @@
+@media screen and (max-width: 541px) {
+
+    .wrapper {
+        width: 530px;
+        margin-left: 18px;
+    }
+
+    .box {
+        height: 63.6px;
+    }
+
+    #imgwrooka {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgwrookb {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgbrooka {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgbrookb {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgwknighta {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #whiteknighta {
+        position: absolute;
+    }
+    
+    #imgbknighta {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgbknightb {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgwbishopa {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgwbishopb {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgbbishopa {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgbbishopb {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgwking {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgbking {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgwqueen {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+    
+    #imgbqueen {
+        height: 40px;
+        width: 40px;
+        opacity: 8;
+    }
+
+}
+
+
 @media screen and (max-width: 415px) {
 
     header {
