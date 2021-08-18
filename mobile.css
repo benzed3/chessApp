@@ -7,6 +7,115 @@
 }
 
 
+@media screen and (max-width: 720px) {
+
+    .wrapper {
+        margin: 0 0 0 140px;
+        width: 450px;
+    }
+
+    .box {
+        height: 54px;
+        font-size: 15px;
+    }
+
+    #imgwrooka {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgwrookb {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgbrooka {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgbrookb {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgwknighta {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #whiteknighta {
+        position: absolute;
+    }
+    
+    #imgbknighta {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgbknightb {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgwbishopa {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgwbishopb {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgbbishopa {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgbbishopb {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgwking {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgbking {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgwqueen {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+    
+    #imgbqueen {
+        height: 33px;
+        width: 33px;
+        opacity: 8;
+    }
+
+}
+
+
 @media screen and (max-width: 541px) {
 
     .wrapper {
