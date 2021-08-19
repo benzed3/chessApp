@@ -551,3 +551,15 @@
 
 
 }
+
+@media screen and (max-width: 281px) {
+
+    .wrapper {
+        width: 260px;
+    }
+
+    .box {
+        font-size: 11px;
+    }
+
+}
