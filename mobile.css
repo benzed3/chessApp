@@ -554,10 +554,6 @@
 
 @media screen and (max-width: 281px) {
 
-    body {
-        height: 100%;
-    }
-
     header  h1 {
         font-size: 25px;
     }
@@ -568,6 +564,122 @@
 
     .box {
         font-size: 11px;
+    }
+
+}
+
+@media screen and (max-height: 281px) {
+
+    header h1 {
+        font-size: 20px;
+    }
+
+    header {
+        padding: 10px 0 10px 0;
+    }
+
+    .wrapper {
+        width: 203px;
+        margin-left: 230px;
+    }
+
+    .box {
+        height: 27px;
+        font-size: 10px;
+    }
+
+    #imgwrooka {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgwrookb {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgbrooka {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgbrookb {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgwknighta {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #whiteknighta {
+        position: absolute;
+    }
+    
+    #imgbknighta {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgbknightb {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgwbishopa {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgwbishopb {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgbbishopa {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgbbishopb {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgwking {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgbking {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgwqueen {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
+    }
+    
+    #imgbqueen {
+        height: 13px;
+        width: 13px;
+        opacity: 8;
     }
 
 }
