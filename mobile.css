@@ -554,6 +554,14 @@
 
 @media screen and (max-width: 281px) {
 
+    body {
+        height: 100%;
+    }
+
+    header  h1 {
+        font-size: 25px;
+    }
+
     .wrapper {
         width: 260px;
     }
