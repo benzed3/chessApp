@@ -1,3 +1,26 @@
+@media screen and (max-width: 1024px) {
+
+    header {
+        padding: 25px 0 25px 0;
+        margin-bottom: 30px;;
+    }
+
+    header h1 {
+        font-size: 45px;
+    }
+
+    .wrapper {
+        width: 800px;
+        padding-left: 45px;
+    }
+
+    .box {
+        height: 96px;
+    }
+
+}
+
+
 @media screen and (max-width: 768px) {
 
     .wrapper {
