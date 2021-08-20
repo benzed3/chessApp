@@ -353,6 +353,121 @@
 
 }
 
+@media screen and (max-height: 541px) {
+
+    header {
+        padding: 15px 0 15px 0;
+    }
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    .box {
+        height: 55px;
+    }
+
+    .wrapper {
+        width: 465px;
+        margin-left: 105px;
+    }
+
+    #imgwrooka {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgwrookb {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgbrooka {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgbrookb {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgwknighta {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #whiteknighta {
+        position: absolute;
+    }
+    
+    #imgbknighta {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgbknightb {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgwbishopa {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgwbishopb {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgbbishopa {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgbbishopb {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgwking {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgbking {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgwqueen {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+    
+    #imgbqueen {
+        height: 37px;
+        width: 37px;
+        opacity: 8;
+    }
+
+}
+
 
 @media screen and (max-width: 415px) {
 
