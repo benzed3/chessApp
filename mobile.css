@@ -32,6 +32,100 @@
         height: 84px;
     }
 
+    #imgwrooka {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgwrookb {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgbrooka {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgbrookb {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgwknighta {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #whiteknighta {
+        position: absolute;
+    }
+    
+    #imgbknighta {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgbknightb {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgwbishopa {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgwbishopb {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgbbishopa {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgbbishopb {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgwking {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgbking {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgwqueen {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+    
+    #imgbqueen {
+        height: 60px;
+        width: 60px;
+        opacity: 8;
+    }
+
 }
 
 @media screen and (max-height: 769px) {
