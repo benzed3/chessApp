@@ -24,7 +24,28 @@
 @media screen and (max-width: 768px) {
 
     .wrapper {
-        margin-left: 46px;
+        margin-left: 5px;
+        width: 700px;
+    }
+
+    .box {
+        height: 84px;
+    }
+
+}
+
+@media screen and (max-height: 769px) {
+
+    header {
+        margin-bottom: 15px;
+    }
+
+    .wrapper {
+        width: 620px;
+    }
+
+    .box {
+        height: 75px;
     }
 
 }
