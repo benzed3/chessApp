@@ -346,14 +346,6 @@
 
 }
 
-@media screen and (max-width: 732px) {
-
-    div.wrapper {
-        margin-left: 185px;
-    }
-
-}
-
 @media screen and (max-width: 541px) {
 
     header {
@@ -815,7 +807,7 @@
 @media screen and (max-height: 412px) {
 
     .wrapper {
-        margin-left: 230px;
+        margin-left: 185px;
     }
 
 }
@@ -930,7 +922,7 @@
 
     .wrapper {
         width: 308px;
-        margin-left: 144px;
+        margin-left: 164px;
     }
 
     .box {
@@ -940,6 +932,10 @@
 }
 
 @media screen and (max-width: 361px) {
+
+    header {
+        width: 102%;
+    }
 
     .wrapper {
         margin: 0;
@@ -952,6 +948,7 @@
 
     .wrapper {
         width: 292px;
+        margin-left: 157px;
     }
 
     .box {
@@ -963,41 +960,52 @@
 
 @media screen and (max-width: 321px) {
 
+    header {
+        width: 100%;
+        padding: 10px 0 10px 0;
+    }
+
+    header h1 {
+        font-size: 25px;
+    }
+
     .wrapper {
         width: 300px;
+        margin-left: 9px;
     }
 
     .box {
         height: 36px;
+        font-size: 12px;
     }
 
     #imgwrooka {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgwrookb {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgbrooka {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgbrookb {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgwknighta {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
@@ -1006,62 +1014,62 @@
     }
     
     #imgbknighta {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgbknightb {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgwbishopa {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgwbishopb {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgbbishopa {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgbbishopb {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgwking {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgbking {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgwqueen {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
     
     #imgbqueen {
-        height: 18px;
-        width: 18px;
+        height: 20px;
+        width: 20px;
         opacity: 8;
     }
 
@@ -1076,10 +1084,102 @@
 
     .box {
         height: 30px;
-        font-size: 7px;
+        font-size: 9px;
     }
 
-
+    #imgwrooka {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgwrookb {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgbrooka {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgbrookb {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgwknighta {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #whiteknighta {
+        position: absolute;
+    }
+    
+    #imgbknighta {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgbknightb {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgwbishopa {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgwbishopb {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgbbishopa {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgbbishopb {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgwking {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgbking {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgwqueen {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
+    
+    #imgbqueen {
+        height: 20px;
+        width: 20px;
+        opacity: 8;
+    }
 
 }
 
@@ -1111,7 +1211,7 @@
 
     .wrapper {
         width: 203px;
-        margin-left: 230px;
+        margin-left: 207px;
     }
 
     .box {
