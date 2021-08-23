@@ -590,40 +590,36 @@
 
     .box {
         height: 48px;
+        font-size: 15px;
     }
-
-    img {
-        width: 40px;
-    }
-
 
     #imgwrooka {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgwrookb {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgbrooka {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgbrookb {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgwknighta {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
@@ -632,62 +628,62 @@
     }
     
     #imgbknighta {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgbknightb {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgwbishopa {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgwbishopb {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgbbishopa {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgbbishopb {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgwking {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgbking {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgwqueen {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
     
     #imgbqueen {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         opacity: 8;
     }
 }
@@ -704,40 +700,41 @@
 
     .wrapper {
         width: 333px;
-        margin-left: 162px;
+        margin-left: 185px;
     }
 
     .box {
         height: 40px;
+        font-size: 11px;
     }
 
     #imgwrooka {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgwrookb {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgbrooka {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgbrookb {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgwknighta {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
@@ -746,62 +743,62 @@
     }
     
     #imgbknighta {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgbknightb {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgwbishopa {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgwbishopb {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgbbishopa {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgbbishopb {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgwking {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgbking {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgwqueen {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
     
     #imgbqueen {
-        height: 20px;
-        width: 20px;
+        height: 25px;
+        width: 25px;
         opacity: 8;
     }
 
