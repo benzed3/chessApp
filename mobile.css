@@ -16,6 +16,7 @@
 
     .box {
         height: 96px;
+        font-size: 23px;
     }
 
 }
@@ -812,6 +813,28 @@
 
     .box {
         height: 37px;
+    }
+
+}
+
+@media screen and (max-width: 361px) {
+
+    .wrapper {
+        margin: 0;
+        padding-left: 9px;
+    }
+
+}
+
+@media screen and (max-height: 361px) {
+
+    .wrapper {
+        width: 292px;
+    }
+
+    .box {
+        height: 35px;
+        font-size: 10px;
     }
 
 }
