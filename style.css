@@ -1,0 +1,23 @@
+/*body styling*/
+body {
+    margin: 0;
+    background: bisque;
+    height: 100%;
+}
+
+/*header styling*/
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-family: 'Rampart One', cursive;
+    font-size: 45px;
+    color: red;
+    padding: 15px 0 10px 0;
+}
+
+header h3 {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+}
