@@ -21,3 +21,14 @@ header h3 {
     font-family: 'Architects Daughter', cursive;
     font-size: 20px;
 }
+
+/*wrapper styling*/
+
+.wrapper {
+    text-align: center;
+    height: 600px;
+    border-style: double;
+    border-width: 10px;
+    width: 66%;
+    margin: 0 auto 0 auto;
+}
