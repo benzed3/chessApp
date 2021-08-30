@@ -60,12 +60,33 @@
 @media screen and (max-width: 540px) {
 
     .wrapper {
-        height: 202.5px;
+        height: 299.7px;
         border-width: 20px;
     }
 
     .square {
-        height: 26px;
+        height: 38px;
+    }
+
+}
+
+@media screen and (max-height: 540px) and (max-width: 720px) {
+
+    header h1 {
+        font-size: 35px;
+    }
+
+    header h3 {
+        font-size: 15px;
+    }
+
+    .wrapper {
+        height: 375px;
+        width: 52%;
+    }
+
+    .square {
+        height: 47px;
     }
 
 }
