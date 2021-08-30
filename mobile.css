@@ -154,3 +154,50 @@
     }
 
 }
+
+@media screen and (max-width: 281px) {
+
+    header h1 {
+        font-size: 25px;
+    }
+
+    header h3 {
+        font-size: 11px;
+    }
+
+    .wrapper {
+        height: 155px;
+        border-width: 10px;
+    }
+
+    .square {
+        height: 19.5px;
+    }
+
+}
+
+@media screen and (max-height: 281px) and (max-width: 654px) {
+
+    header {
+        margin-bottom: 10px;
+    }
+
+    header h1 {
+        font-size: 25px;
+    }
+
+    header h3 {
+        font-size: 11px;
+    }
+
+    .wrapper {
+        border-width: 15px;
+        height: 165px;
+        width: 25.25%;
+    }
+
+    .square {
+        height: 21px;
+    }
+
+}
