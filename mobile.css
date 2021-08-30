@@ -132,3 +132,25 @@
     }
 
 }
+
+@media screen and (max-height: 412px) and (max-width: 824px) {
+
+    header h1 {
+        font-size: 35px;
+    }
+
+    header h3 {
+        font-size: 15px;
+    }
+
+    .wrapper {
+        height: 235px;
+        border-width: 20px;
+        width: 28.5%;
+    }
+
+    .square {
+        height: 30px;
+    }
+
+}
