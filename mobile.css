@@ -1,23 +1,45 @@
 @media screen and (max-width: 1024px) {
 
+    header {
+        margin-bottom: 15px;
+    }
+
+    header h1 {
+        font-size: 60px;
+    }
+
+    header h3 {
+        font-size: 25px;
+    }
+
     .wrapper {
-        height: 384px;
+        width: 60.5%;
+        height: 620px;
     }
 
     .square {
-        height: 49px;
+        height: 78px;
     }
 
 }
 
 @media screen and (max-width: 768px) {
 
+    header h1 {
+        font-size: 55px;
+    }
+
+    header h3 {
+        font-size: 22px;
+    }
+
     .wrapper {
-        height: 287px;
+        width: 55.5%;
+        height: 426px;
     }
 
     .square {
-        height: 36px;
+        height: 54px;
     }
 
 }
