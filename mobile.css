@@ -1,0 +1,48 @@
+@media screen and (max-width: 1024px) {
+
+    .wrapper {
+        height: 384px;
+    }
+
+    .square {
+        height: 49px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .wrapper {
+        height: 287px;
+    }
+
+    .square {
+        height: 36px;
+    }
+
+}
+
+@media screen and (max-width: 540px) {
+
+    .wrapper {
+        height: 202.5px;
+        border-width: 20px;
+    }
+
+    .square {
+        height: 26px;
+    }
+
+}
+
+@media screen and (max-width: 415px) {
+
+    .wrapper {
+        height: 155.5px
+    }
+
+    .square {
+        height: 19.5px;
+    }
+
+}
