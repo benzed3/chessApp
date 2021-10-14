@@ -86,3 +86,16 @@
     }
 
 }
+
+@media screen and (max-width: 412px) and (max-height: 824px) {
+
+    .wrapper {
+        width: 70%;
+        height: 287px;
+    }
+
+    .square {
+        height: 36.5px;
+    }
+
+}
