@@ -125,3 +125,11 @@
     }
 
 }
+
+@media screen and (max-height: 412px) and (max-width: 732px) {
+
+    .wrapper {
+        width: 30.8%;
+    }
+
+}
