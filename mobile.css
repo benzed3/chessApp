@@ -46,3 +46,16 @@
     }
 
 }
+
+@media screen and (max-height: 540px) and (max-width: 720px) {
+
+    .wrapper {
+        height: 350px;
+        width: 49%;
+    }
+
+    .square {
+        height: 44px;
+    }
+
+}
