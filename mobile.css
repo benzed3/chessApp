@@ -77,6 +77,12 @@
 
     .wrapper {
         border-width: 20px;
+        height: 225px;
+        width: 31%;
+    }
+
+    .square {
+        height: 28.5px;
     }
 
 }
