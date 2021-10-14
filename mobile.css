@@ -99,3 +99,17 @@
     }
 
 }
+
+@media screen and (max-height: 412px) and (max-width: 824px) {
+
+    .wrapper {
+        height: 225px;
+        border-width: 25px;
+        width: 27.4%;
+    }
+
+    .square {
+        height: 29px;
+    }
+
+}
