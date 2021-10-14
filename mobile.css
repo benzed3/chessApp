@@ -29,3 +29,20 @@
     }
 
 }
+
+@media screen and (max-width: 540px) and (max-height: 720px) {
+
+    .wrapper {
+        height: 375px;
+        width: 71%;
+    }
+
+    .square {
+        height: 48px;
+    }
+
+    #wKing {
+        width: 50%;
+    }
+
+}
