@@ -13,3 +13,19 @@
     }
 
 }
+
+@media screen and (max-width: 768px) and (max-height: 1024px) {
+
+    .wrapper {
+        width: 74.9%;
+    }
+
+}
+
+@media screen and (max-height: 768px) and (max-width: 1024px) {
+
+    .wrapper {
+        width: 56.3%;
+    }
+
+}
