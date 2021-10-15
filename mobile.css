@@ -227,6 +227,10 @@
 
     }
 
+    .wrapper {
+        height: 170px;
+    }
+
     .square {
         height: 21.3px;
     }
