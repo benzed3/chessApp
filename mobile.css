@@ -229,6 +229,7 @@
 
     .wrapper {
         height: 170px;
+        border-width: 20px;
     }
 
     .square {
