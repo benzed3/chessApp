@@ -43,6 +43,7 @@
 
     img {
         height: 40px;
+        width: 40%;
     }
 
 }
@@ -59,7 +60,8 @@
     }
 
     img {
-        height: 44px;
+        height: 44px;  
+        width: 40%;
     }
 
 }
@@ -76,7 +78,8 @@
     }
 
     img {
-        height: 35px;
+        height: 35px; 
+        width: 40%;   
     }
 
 }
@@ -95,7 +98,7 @@
 
     img {
         height: 26px;
-        width: 50%;
+        width: 45%;
     }
 
 }
@@ -113,7 +116,7 @@
 
     img {
         height: 33px;
-        width: 50%;
+        width: 40%;
     }
 
 }
@@ -132,7 +135,7 @@
 
     img {
         height: 23px;
-        width: 45%;
+        width: 40%;
     }
 
 }
@@ -149,7 +152,7 @@
 
     img {
         height: 37px;
-        width: 50%;
+        width: 40%;
     }
 
 }
@@ -179,7 +182,7 @@
 
     img {
         height: 29px;
-        width: 45%;
+        width: 40%;
     }
 
 }
@@ -197,7 +200,7 @@
 
     img {
         height: 25px;
-        width: 45%;
+        width: 40%;
     }
 
 }
