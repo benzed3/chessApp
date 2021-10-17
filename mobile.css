@@ -258,3 +258,21 @@
     }
 
 }
+
+@media screen and (max-height: 281px) and (max-width: 654px) {
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    .wrapper {
+        border-width: 15px;
+        height: 150px;
+        width: 23%;
+    }
+
+    .square {
+        height: 19px;
+    }
+
+}
