@@ -242,6 +242,11 @@
 
     .wrapper {
         border-width: 15px;
+        height: 200px;
+    }
+
+    .square {
+        height: 25.1px;
     }
 
 }
