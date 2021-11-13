@@ -15,17 +15,3 @@ function drop(event) {
 }
 
 //for touch drag
-window.onload = function () {
-
-    var bp8img = document.getElementById("dragtargetbp8");
-
-    bp8img.addEventListener("touchmove", function (ev) {
-
-        var touchLocation = ev.targetTouches[0];
-
-        bp8img.style.left = touchLocation.pageX + "px";
-        bp8img.style.top = touchLocation.pageY + "px";
-
-    })
-
-}
