@@ -49,3 +49,7 @@ header h3 {
 #sevenRank {
     clear:both;
 }
+
+img {
+    position: absolute;
+}
