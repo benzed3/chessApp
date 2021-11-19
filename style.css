@@ -27,5 +27,12 @@ header h3 {
 
 .col-lg-1 {
     height: 100px;
+}
+
+.white {
+    background: burlywood;
+}
+
+.black {
     background: brown;
 }
