@@ -27,11 +27,15 @@ header h3 {
 
 .container {
     padding: 0;
-    max-width: 1020px;
+    max-width: 876px;
 }
 
 .col-lg-1 {
     height: 75px;
+}
+
+.row>* {
+    padding: 0;
 }
 
 .white {
