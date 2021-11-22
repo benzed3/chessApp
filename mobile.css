@@ -110,6 +110,14 @@
 
 @media screen and (max-height: 412px) and (max-width: 824px) {
 
+    header h1 {
+        font-size: 30px;
+    }
+
+    header h3 {
+        font-size: 13px;
+    }
+
     .col-lg-1 {
         height: 35px;
     }
