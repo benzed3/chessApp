@@ -45,6 +45,10 @@
     .row>* {
         width: 47px;
     }
+    
+    .row {
+        margin-left: 77px;
+    }
 
 }
 
