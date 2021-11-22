@@ -110,7 +110,17 @@
 
 @media screen and (max-height: 412px) and (max-width: 824px) {
 
-    
+    .col-lg-1 {
+        height: 35px;
+    }
+
+    .row>* {
+        width: 35px;
+    }
+
+    .row {
+        margin-left: 200px;
+    }
 
 }
 
