@@ -38,7 +38,14 @@
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
 
-   
+    .col-lg-1 {
+        height: 47px;
+    }
+
+    .row>* {
+        width: 47px;
+    }
+
 }
 
 @media screen and (max-width: 415px) and (max-height: 737px) {
