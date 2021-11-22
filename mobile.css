@@ -54,7 +54,9 @@
 
 @media screen and (max-width: 415px) and (max-height: 737px) {
 
-    
+    .col-lg-1 {
+        height: 36.525px;
+    }
 
 }
 
