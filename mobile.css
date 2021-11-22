@@ -70,7 +70,17 @@
 
 @media screen and (max-height: 415px) and (max-width: 737px) {
 
-    
+    .col-lg-1 {
+        height: 33px;
+    }
+
+    .row>* {
+        width: 33px;
+    }
+
+    .row {
+        margin-left: 170px;
+    }
 
 }
 
