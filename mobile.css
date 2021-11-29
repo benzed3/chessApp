@@ -254,15 +254,15 @@
     }
 
     .col-lg-1 {
-        height: 25px;
+        height: 22px;
     }
 
     .row {
-        margin-left: 188px;
+        margin-left: 197px;
     }
 
     .row>* {
-        width: 25px;
+        width: 22px;
     }
 
 }
