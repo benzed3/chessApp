@@ -245,6 +245,12 @@
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
 
-   
+    .col-lg-1 {
+        height: 20px;
+    }
+
+    .row>* {
+        width: 20px;
+    }
 
 }
