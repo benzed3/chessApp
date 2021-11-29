@@ -245,12 +245,20 @@
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
 
+    header h1 {
+        font-size: 25px;
+    }
+
+    header h3 {
+        font-size: 11px;
+    }
+
     .col-lg-1 {
-        height: 20px;
+        height: 25px;
     }
 
     .row>* {
-        width: 20px;
+        width: 25px;
     }
 
 }
