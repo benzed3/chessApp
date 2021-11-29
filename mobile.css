@@ -213,6 +213,10 @@
         font-size: 11px;
     }
 
+    .row {
+        margin-left: 137px;
+    }
+
     .row>* {
         width: 25px;
     }
