@@ -140,7 +140,9 @@
 
 @media screen and (max-height: 412px) and (max-width: 732px) {
 
-    
+    .row {
+        margin-left: 155px;
+    }
 
 }
 
