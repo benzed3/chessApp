@@ -73,3 +73,12 @@ header h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.whiteRook {
+    position: relative;
+    width: 45%;
+    height: 65px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
