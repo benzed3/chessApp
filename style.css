@@ -91,3 +91,12 @@ header h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.whiteKnight {
+    position: relative;
+    width: 55%;
+    height: 58px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
