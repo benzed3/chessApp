@@ -118,3 +118,22 @@ header h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+.blackQueen {
+    position: relative;
+    width: 40%;
+    height: 67px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blackKing {
+    position: relative;
+    width: 45%;
+    height: 72px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
