@@ -45,3 +45,10 @@ header h3 {
 .black {
     background: brown;
 }
+
+/*pieces styling*/
+.blackPawn {
+    position: relative;
+    width: 45%;
+    height: 55px;
+}
