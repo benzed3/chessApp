@@ -109,3 +109,12 @@ header h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.whiteBishop {
+    position: relative;
+    width: 45%;
+    height: 63px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
