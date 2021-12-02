@@ -28,6 +28,16 @@
         height: 50px;
    }
 
+   .blackRook {
+        width: 42%;
+        height: 55px
+   }
+
+   .whiteRook {
+        width: 42%;
+        height: 55px
+   }
+
 }
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
