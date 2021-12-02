@@ -401,7 +401,67 @@
 
    .col-lg-1 {
        height: 36.263px;
-   }
+    }
+
+    .blackPawn {
+        width: 40%;
+        height: 26px;
+    }
+
+   .whitePawn {
+        width: 40%;
+        height: 26px;
+    }
+
+   .blackRook {
+        width: 45%;
+        height: 30px;
+    }
+
+   .whiteRook {
+        width: 45%;
+        height: 30px;
+    }
+
+   .blackKnight {
+        width: 47%;
+        height: 27px    
+    }
+
+   .whiteKnight {
+        width: 47%;
+        height: 27px
+    }
+
+   .blackBishop {
+        width: 40%;
+        height: 30px;
+    }
+
+   .whiteBishop {
+        width: 40%;
+        height: 30px;
+    }
+
+   .blackQueen {
+        width: 40%;
+        height: 31px;
+    }
+
+   .whiteQueen {
+        width: 40%;
+        height: 31px;
+    }
+
+   .blackKing {
+        width: 45%;
+        height: 34px;
+    }
+
+   .whiteKing {
+        width: 45%;
+        height: 34px;
+    }
 
 }
 
@@ -425,6 +485,66 @@
 
     .row {
         margin-left: 200px;
+    }
+
+    .blackPawn {
+        width: 40%;
+        height: 26px;
+    }
+
+   .whitePawn {
+        width: 40%;
+        height: 26px;
+    }
+
+   .blackRook {
+        width: 45%;
+        height: 30px;
+    }
+
+   .whiteRook {
+        width: 45%;
+        height: 30px;
+    }
+
+   .blackKnight {
+        width: 47%;
+        height: 27px    
+    }
+
+   .whiteKnight {
+        width: 47%;
+        height: 27px
+    }
+
+   .blackBishop {
+        width: 40%;
+        height: 30px;
+    }
+
+   .whiteBishop {
+        width: 40%;
+        height: 30px;
+    }
+
+   .blackQueen {
+        width: 40%;
+        height: 31px;
+    }
+
+   .whiteQueen {
+        width: 40%;
+        height: 31px;
+    }
+
+   .blackKing {
+        width: 45%;
+        height: 34px;
+    }
+
+   .whiteKing {
+        width: 45%;
+        height: 34px;
     }
 
 }
