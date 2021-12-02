@@ -38,6 +38,16 @@
         height: 55px
    }
 
+   .blackKnight {
+        width: 47%;
+        height: 47px    
+   }
+
+   .whiteKnight {
+        width: 47%;
+        height: 47px
+   }
+
 }
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
