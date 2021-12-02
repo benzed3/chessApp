@@ -167,6 +167,66 @@
         margin-left: 77px;
     }
 
+    .blackPawn {
+        width: 40%;
+        height: 35px;
+    }
+
+   .whitePawn {
+        width: 40%;
+        height: 35px;
+    }
+
+   .blackRook {
+        width: 45%;
+        height: 38px;
+    }
+
+   .whiteRook {
+        width: 45%;
+        height: 38px;
+    }
+
+   .blackKnight {
+        width: 47%;
+        height: 33px    
+    }
+
+   .whiteKnight {
+        width: 47%;
+        height: 33px
+    }
+
+   .blackBishop {
+        width: 40%;
+        height: 38px;
+    }
+
+   .whiteBishop {
+        width: 40%;
+        height: 38px;
+    }
+
+   .blackQueen {
+        width: 40%;
+        height: 41px;
+    }
+
+   .whiteQueen {
+        width: 40%;
+        height: 41px;
+    }
+
+   .blackKing {
+        width: 45%;
+        height: 45px;
+    }
+
+   .whiteKing {
+        width: 45%;
+        height: 45px;
+    }
+
 }
 
 @media screen and (max-width: 415px) and (max-height: 737px) {
