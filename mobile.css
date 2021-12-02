@@ -625,22 +625,22 @@
 
    .blackQueen {
         width: 40%;
-        height: 31px;
+        height: 26px;
     }
 
    .whiteQueen {
         width: 40%;
-        height: 31px;
+        height: 26px;
     }
 
    .blackKing {
         width: 45%;
-        height: 34px;
+        height: 27px;
     }
 
    .whiteKing {
         width: 45%;
-        height: 34px;
+        height: 27px;
     }
 
 }
