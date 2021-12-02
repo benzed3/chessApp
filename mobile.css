@@ -58,6 +58,26 @@
         height: 55px;
    }
 
+   .blackQueen {
+        width: 40%;
+        height: 60px;
+   }
+
+   .whiteQueen {
+        width: 40%;
+        height: 60px;
+   }
+
+   .blackKing {
+        width: 45%;
+        height: 63px;
+   }
+
+   .whiteKing {
+        width: 45%;
+        height: 63px;
+   }
+
 }
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
