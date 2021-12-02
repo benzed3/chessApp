@@ -21,62 +21,62 @@
     .blackPawn {
         width: 40%;
         height: 50px;
-   }
+    }
 
    .whitePawn {
         width: 40%;
         height: 50px;
-   }
+    }
 
    .blackRook {
         width: 42%;
         height: 55px
-   }
+    }
 
    .whiteRook {
         width: 42%;
         height: 55px
-   }
+    }
 
    .blackKnight {
         width: 47%;
         height: 47px    
-   }
+    }
 
    .whiteKnight {
         width: 47%;
         height: 47px
-   }
+    }
 
    .blackBishop {
         width: 40%;
         height: 55px;
-   }
+    }
 
    .whiteBishop {
         width: 40%;
         height: 55px;
-   }
+    }
 
    .blackQueen {
         width: 40%;
         height: 60px;
-   }
+    }
 
    .whiteQueen {
         width: 40%;
         height: 60px;
-   }
+    }
 
    .blackKing {
         width: 45%;
         height: 63px;
-   }
+    }
 
    .whiteKing {
         width: 45%;
         height: 63px;
-   }
+    }
 
 }
 
@@ -89,6 +89,66 @@
 
     .col-lg-1 {
         height: 47px;
+    }
+
+    .blackPawn {
+        width: 40%;
+        height: 35px;
+    }
+
+   .whitePawn {
+        width: 40%;
+        height: 35px;
+    }
+
+   .blackRook {
+        width: 45%;
+        height: 38px;
+    }
+
+   .whiteRook {
+        width: 45%;
+        height: 38px;
+    }
+
+   .blackKnight {
+        width: 47%;
+        height: 33px    
+    }
+
+   .whiteKnight {
+        width: 47%;
+        height: 33px
+    }
+
+   .blackBishop {
+        width: 40%;
+        height: 38px;
+    }
+
+   .whiteBishop {
+        width: 40%;
+        height: 38px;
+    }
+
+   .blackQueen {
+        width: 40%;
+        height: 41px;
+    }
+
+   .whiteQueen {
+        width: 40%;
+        height: 41px;
+    }
+
+   .blackKing {
+        width: 45%;
+        height: 45px;
+    }
+
+   .whiteKing {
+        width: 45%;
+        height: 45px;
     }
 
 }
