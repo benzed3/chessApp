@@ -838,6 +838,66 @@
         height: 25.325px;
     }
 
+    .blackPawn {
+        width: 40%;
+        height: 21px;
+    }
+
+    .whitePawn {
+        width: 40%;
+        height: 21px;
+    }
+
+   .blackRook {
+        width: 45%;
+        height: 25px;
+    }
+
+   .whiteRook {
+        width: 45%;
+        height: 25px;
+    }
+
+   .blackKnight {
+        width: 50%;
+        height: 21px    
+    }
+
+   .whiteKnight {
+        width: 50%;
+        height: 21px
+    }
+
+   .blackBishop {
+        width: 40%;
+        height: 23px;
+    }
+
+   .whiteBishop {
+        width: 40%;
+        height: 23px;
+    }
+
+   .blackQueen {
+        width: 40%;
+        height: 26px;
+    }
+
+   .whiteQueen {
+        width: 40%;
+        height: 26px;
+    }
+
+   .blackKing {
+        width: 45%;
+        height: 27px;
+    }
+
+   .whiteKing {
+        width: 45%;
+        height: 27px;
+    }
+
 }
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
@@ -860,6 +920,66 @@
 
     .row>* {
         width: 22px;
+    }
+
+    .blackPawn {
+        width: 40%;
+        height: 21px;
+    }
+
+    .whitePawn {
+        width: 40%;
+        height: 21px;
+    }
+
+   .blackRook {
+        width: 45%;
+        height: 25px;
+    }
+
+   .whiteRook {
+        width: 45%;
+        height: 25px;
+    }
+
+   .blackKnight {
+        width: 50%;
+        height: 21px    
+    }
+
+   .whiteKnight {
+        width: 50%;
+        height: 21px
+    }
+
+   .blackBishop {
+        width: 40%;
+        height: 23px;
+    }
+
+   .whiteBishop {
+        width: 40%;
+        height: 23px;
+    }
+
+   .blackQueen {
+        width: 40%;
+        height: 26px;
+    }
+
+   .whiteQueen {
+        width: 40%;
+        height: 26px;
+    }
+
+   .blackKing {
+        width: 45%;
+        height: 27px;
+    }
+
+   .whiteKing {
+        width: 45%;
+        height: 27px;
     }
 
 }
