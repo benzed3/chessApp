@@ -783,43 +783,43 @@
     }
 
    .blackKnight {
-        width: 50%;
-        height: 21px    
+        width: 51%;
+        height: 16px    
     }
 
    .whiteKnight {
         width: 50%;
-        height: 21px
+        height: 16px
     }
 
    .blackBishop {
         width: 40%;
-        height: 23px;
+        height: 20px;
     }
 
    .whiteBishop {
         width: 40%;
-        height: 23px;
+        height: 20px;
     }
 
    .blackQueen {
         width: 40%;
-        height: 26px;
+        height: 21px;
     }
 
    .whiteQueen {
         width: 40%;
-        height: 26px;
+        height: 21px;
     }
 
    .blackKing {
         width: 45%;
-        height: 27px;
+        height: 23px;
     }
 
    .whiteKing {
         width: 45%;
-        height: 27px;
+        height: 23px;
     }
 
 }
