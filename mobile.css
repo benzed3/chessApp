@@ -924,62 +924,62 @@
 
     .blackPawn {
         width: 40%;
-        height: 21px;
+        height: 16px;
     }
 
     .whitePawn {
         width: 40%;
-        height: 21px;
+        height: 16px;
     }
 
    .blackRook {
-        width: 45%;
-        height: 25px;
+        width: 40%;
+        height: 17px;
     }
 
    .whiteRook {
-        width: 45%;
-        height: 25px;
+        width: 40%;
+        height: 17px;
     }
 
    .blackKnight {
         width: 50%;
-        height: 21px    
+        height: 14px    
     }
 
    .whiteKnight {
         width: 50%;
-        height: 21px
+        height: 14px
     }
 
    .blackBishop {
         width: 40%;
-        height: 23px;
+        height: 18px;
     }
 
    .whiteBishop {
         width: 40%;
-        height: 23px;
+        height: 18px;
     }
 
    .blackQueen {
         width: 40%;
-        height: 26px;
+        height: 19px;
     }
 
    .whiteQueen {
         width: 40%;
-        height: 26px;
+        height: 19px;
     }
 
    .blackKing {
         width: 45%;
-        height: 27px;
+        height: 21px;
     }
 
    .whiteKing {
         width: 45%;
-        height: 27px;
+        height: 21px;
     }
 
 }
