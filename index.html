@@ -158,10 +158,11 @@
 
             </div>
 
-            <div class="col-lg-1 black">
+            <div class="col-lg-1 black" class="droptarget" ondrop="drop(event)" ondragover="allowDrop(event)">
 
                 <div>
-                    <img src="images/black_pawn.jfif" class="blackPawn">
+                    <img src="images/black_pawn.jfif" class="blackPawn" ondragstart="dragStart(event)"
+                        ondrag="dragging(event)" draggable="true" id="dragtargetA">
                 </div>
 
             </div>
@@ -204,11 +205,11 @@
         <div class="row">
 
             <div class="col-lg-1">
-
+                <!--leave blank-->
             </div>
 
             <div class="col-lg-1">
-
+                <!--leave blank-->
             </div>
 
             <div class="col-lg-1 white">
@@ -223,11 +224,11 @@
 
             </div>
 
-            <div class="col-lg-1 black">
+            <div class="col-lg-1 black" class="droptarget" ondrop="drop(event)" ondragover="allowDrop(event)">
 
             </div>
 
-            <div class="col-lg-1 white">
+            <div class="col-lg-1 white" class="droptarget" ondrop="drop(event)" ondragover="allowDrop(event)">
 
             </div>
 
