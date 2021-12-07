@@ -15,3 +15,22 @@ function drop(event) {
 }
 
 //for touch drag
+var bRook1 = document.getElementById("dragtargetA8");
+
+bRook1.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    bRook1.style.left = touchLocation.pageX + "px";
+    bRook1.style.top = touchLocation.pageY + "px";
+
+})
+
+bRook1.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(bRook1.style.left);
+    var y = parseInt(bRook1.style.top);
+
+})
