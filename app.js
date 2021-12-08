@@ -14,8 +14,10 @@ function drop(event) {
     event.target.appendChild(document.getElementById(data));
 }
 
-//for touch drag
-var bRook1 = document.getElementById("dragtargetA8");
+//for touch drag***//
+
+//for black rook1//
+var bRook1 = document.getElementById("blackRooka");
 
 bRook1.addEventListener("touchmove", function (ev) {
 
@@ -32,5 +34,26 @@ bRook1.addEventListener("touchend", function (ev) {
 
     var x = parseInt(bRook1.style.left);
     var y = parseInt(bRook1.style.top);
+
+})
+
+//for black rook 2//
+var bRook2 = document.getElementById("blackRookb");
+
+bRook2.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    bRook2.style.left = touchLocation.pageX + "px";
+    bRook2.style.top = touchLocation.pageY + "px";
+
+})
+
+bRook2.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(bRook2.style.left);
+    var y = parseInt(bRook2.style.top);
 
 })
