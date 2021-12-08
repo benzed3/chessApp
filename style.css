@@ -71,9 +71,7 @@ header h3 {
     height: 60px;
     top: 115px;
     left: 480px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+   
 }
 
 #blackRookb {
@@ -82,9 +80,6 @@ header h3 {
     height: 60px;
     top: 115px;
     right: 480px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .whiteRook {
