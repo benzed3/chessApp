@@ -136,9 +136,18 @@
         height: 35px;
     }
 
-   .blackRook {
-        width: 45%;
-        height: 38px;
+    #blackRooka {
+        width: 20px;
+        height: 35px;
+        top: 110px;
+        left: 95px  
+    }
+
+    #blackRookb {
+        width: 20px;
+        height: 35px;
+        top: 110px;
+        right: 95px;        
     }
 
    .whiteRook {
@@ -212,9 +221,18 @@
         height: 35px;
     }
 
-   .blackRook {
-        width: 45%;
-        height: 38px;
+    #blackRooka {
+        width: 20px;
+        height: 35px;
+        top: 110px;
+        left: 185px  
+    }
+
+    #blackRookb {
+        width: 20px;
+        height: 35px;
+        top: 110px;
+        right: 185px;        
     }
 
    .whiteRook {
