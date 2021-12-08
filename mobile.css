@@ -46,14 +46,18 @@
         height: 50px;
     }
 
-   .blackRook {
-        width: 42%;
-        height: 55px
+    #blackRooka {
+        width: 27px;
+        height: 54px;
+        top: 110px;
+        left: 140px;
     }
 
-   .whiteRook {
-        width: 42%;
-        height: 55px
+    #blackRookb {
+        width: 27px;
+        height: 54px;
+        top: 110px;
+        right: 140px;
     }
 
    .blackKnight {
@@ -100,6 +104,19 @@
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
 
+    #blackRooka {
+        width: 27px;
+        height: 54px;
+        top: 113px;
+        left: 236px    
+    }
+
+    #blackRookb {
+        width: 27px;
+        height: 54px;
+        top: 113px;
+        right: 236px
+    }
 
 }
 
