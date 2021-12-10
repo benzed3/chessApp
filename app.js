@@ -57,3 +57,6 @@ bRook2.addEventListener("touchend", function (ev) {
     var y = parseInt(bRook2.style.top);
 
 })
+
+
+
