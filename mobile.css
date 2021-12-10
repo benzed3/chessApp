@@ -100,6 +100,12 @@
         height: 63px;
     }
 
+    #rookdiv {
+        position: absolute;
+        left: -1px;
+        top: 0px;
+    }
+
 }
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
@@ -116,6 +122,12 @@
         height: 54px;
         top: 113px;
         right: 236px
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 0px;
+        top: 2px;
     }
 
 }
