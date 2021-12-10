@@ -207,6 +207,12 @@
         height: 45px;
     }
 
+    #rookdiv {
+        position: absolute;
+        left: 0px;
+        top: 1px;
+    }
+
 }
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
@@ -290,6 +296,12 @@
    .whiteKing {
         width: 45%;
         height: 45px;
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 0px;
+        top: 1px;
     }
 
 }
