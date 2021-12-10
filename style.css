@@ -71,7 +71,6 @@ header h3 {
     height: 60px;
     top: 113px;
     left: 488px;
-   
 }
 
 #blackRookb {
@@ -163,7 +162,9 @@ header h3 {
     margin-left: auto;
     margin-right: auto;
 }
-
-#mydiv {
+    
+#rookdiv {
     position: absolute;
+    left: 3px;
+    top: -2px;
 }
