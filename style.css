@@ -163,3 +163,7 @@ header h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+#mydiv {
+    position: absolute;
+}
