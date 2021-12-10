@@ -688,7 +688,11 @@
 
 @media screen and (max-width: 412px) and (max-height: 732px) {
 
-    
+    #rookdiv {
+        position: absolute;
+        left: 1px;
+        top: 0px;
+    }
 
 }
 
@@ -696,6 +700,19 @@
 
     .row {
         margin-left: 155px;
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: -48px;
+        top: 0px;
+    }
+
+    #blackRookb {
+        width: 15px;
+        height: 26px;
+        top: 87px;
+        right: 237px;
     }
 
 }
