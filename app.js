@@ -1,5 +1,6 @@
 
-//for click and drag
+//for click and drag//
+
 //black rook 1//
 dragElement(document.getElementById("rookdiv"));
 
