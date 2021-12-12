@@ -2,7 +2,7 @@
 
     #blackRooka {
         top: 113px;
-        left: 235px
+        left: 232px
     }
 
     #blackRookb {
@@ -16,7 +16,7 @@
 
     #blackRooka {
         top: 113px;
-        left: 406px;
+        left: 403px;
     }
 
     #blackRookb {
@@ -51,6 +51,12 @@
         height: 54px;
         top: 110px;
         left: 140px;
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: -1px;
+        top: 0px;
     }
 
     #blackRookb {
@@ -100,21 +106,21 @@
         height: 63px;
     }
 
-    #rookdiv {
-        position: absolute;
-        left: -1px;
-        top: 0px;
-    }
-
 }
 
 @media screen and (max-height: 768px) and (max-width: 1024px) {
 
     #blackRooka {
-        width: 27px;
-        height: 54px;
+        width: 30px;
+        height: 55px;
         top: 113px;
         left: 236px    
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 0px;
+        top: 2px;
     }
 
     #blackRookb {
@@ -122,12 +128,6 @@
         height: 54px;
         top: 113px;
         right: 236px
-    }
-
-    #rookdiv {
-        position: absolute;
-        left: 0px;
-        top: 2px;
     }
 
 }
@@ -153,6 +153,12 @@
         height: 35px;
         top: 110px;
         left: 95px  
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 0px;
+        top: 1px;
     }
 
     #blackRookb {
@@ -207,12 +213,6 @@
         height: 45px;
     }
 
-    #rookdiv {
-        position: absolute;
-        left: 0px;
-        top: 1px;
-    }
-
 }
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
@@ -244,6 +244,12 @@
         height: 35px;
         top: 110px;
         left: 185px  
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 0px;
+        top: 1px;
     }
 
     #blackRookb {
@@ -298,12 +304,6 @@
         height: 45px;
     }
 
-    #rookdiv {
-        position: absolute;
-        left: 0px;
-        top: 1px;
-    }
-
 }
 
 @media screen and (max-width: 415px) and (max-height: 737px) {
@@ -331,10 +331,16 @@
     }
 
     #blackRooka {
-        width: 15px;
-        height: 25px;
+        width: 16px;
+        height: 27px;
         top: 88px;
         left: 72px  
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: -1px;
+        top: -1px;
     }
 
     #blackRookb {
@@ -389,12 +395,6 @@
         height: 34px;
     }
 
-    #rookdiv {
-        position: absolute;
-        left: 0px;
-        top: 0px;
-    }
-
 }
 
 @media screen and (max-height: 415px) and (max-width: 737px) {
@@ -434,6 +434,12 @@
         height: 25px;
         top: 87px;
         left: 245px  
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 0px;
+        top: 0px;
     }
 
     #blackRookb {
@@ -488,12 +494,6 @@
         height: 34px;
     }
 
-    #rookdiv {
-        position: absolute;
-        left: 0px;
-        top: 0px;
-    }
-
 }
 
 @media screen and (max-width: 412px) and (max-height: 824px) {
@@ -522,9 +522,15 @@
 
     #blackRooka {
         width: 15px;
-        height: 26px;
+        height: 27px;
         top: 87px;
         left: 70px;
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 1px;
+        top: 0px;
     }
 
     #blackRookb {
@@ -579,12 +585,6 @@
         height: 34px;
     }
 
-    #rookdiv {
-        position: absolute;
-        left: 1px;
-        top: 0px;
-    }
-
 }
 
 @media screen and (max-height: 412px) and (max-width: 824px) {
@@ -625,6 +625,13 @@
         top: 87px;
         left: 283px;
     }
+
+    #rookdiv {
+        position: absolute;
+        left: -2px;
+        top: 0px;
+    }
+
 
     #blackRookb {
         width: 15px;
@@ -678,12 +685,6 @@
         height: 34px;
     }
 
-    #rookdiv {
-        position: absolute;
-        left: -2px;
-        top: 0px;
-    }
-
 }
 
 @media screen and (max-width: 412px) and (max-height: 732px) {
@@ -702,6 +703,10 @@
         margin-left: 155px;
     }
 
+    #blackRooka {
+        height: 27px;
+    }
+
     #rookdiv {
         position: absolute;
         left: -48px;
@@ -710,7 +715,7 @@
 
     #blackRookb {
         width: 15px;
-        height: 26px;
+        height: 27px;
         top: 87px;
         right: 237px;
     }
@@ -718,6 +723,11 @@
 }
 
 @media screen and (max-width: 376px) and (max-height: 812px) {
+
+    #blackRooka {
+        width: 14px;
+        height: 26px;
+    }
 
     #rookdiv {
         position: absolute;
@@ -752,10 +762,16 @@
     }
 
     #blackRooka {
-        width: 13px;
+        width: 12px;
         height: 23px;
         top: 87px;
         left: 283px;
+    }
+
+    #rookdiv {
+        position: absolute;
+        left: 14px;
+        top: -1px;
     }
 
    .whiteRook {
@@ -801,12 +817,6 @@
    .whiteKing {
         width: 45%;
         height: 27px;
-    }
-
-    #rookdiv {
-        position: absolute;
-        left: 14px;
-        top: -1px;
     }
 
 }
@@ -871,9 +881,16 @@
         height: 21px;
     }
 
-   .blackRook {
-        width: 45%;
-        height: 25px;
+    #blackRooka {
+        width: 12px;
+        height: 22px;
+        top: 89px;
+        left: 72px;
+    }
+
+    #rookdiv {
+        left: -17px;
+        top: -1px;
     }
 
    .whiteRook {
@@ -921,11 +938,6 @@
         height: 27px;
     }
 
-    #rookdiv {
-        left: -18px;
-        top: -3px;
-    }
-
 }
 
 @media screen and (max-height: 321px) and (max-width: 569px) {
@@ -950,9 +962,16 @@
         height: 25px;
     }
 
-    .blackPawn {
-        width: 41%;
-        height: 18px;
+    #blackRooka {
+        width: 10px;
+        height: 19px;
+        top: 88px;
+        left: 284px;
+    }
+
+    #rookdiv {
+        left: -89px;
+        top: -9;
     }
 
     .whitePawn {
@@ -1010,11 +1029,6 @@
         height: 23px;
     }
 
-    #rookdiv {
-        left: -90px;
-        top: -10px;
-    }
-
 }
 
 @media screen and (max-width: 281px) and (max-height: 654px) {
@@ -1041,9 +1055,16 @@
         height: 18px;
     }
 
-   .blackRook {
-        width: 41%;
+    #blackRooka {
+        width: 11px;
         height: 20px;
+        top: 89px;
+        left: 72px;
+    }
+
+    #rookdiv {
+        left: -26px;
+        top: -11px;
     }
 
    .whiteRook {
@@ -1091,11 +1112,6 @@
         height: 24px;
     }
 
-    #rookdiv {
-        left: -26px;
-        top: -11px;
-    }
-
 }
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
@@ -1130,9 +1146,16 @@
         height: 16px;
     }
 
-   .blackRook {
-        width: 40%;
+    #blackRooka {
+        width: 10px;
         height: 17px;
+        top: 89px;
+        left: 284px;
+    }
+
+    #rookdiv {
+        left: -37px;
+        top: -11px;
     }
 
    .whiteRook {
@@ -1178,11 +1201,6 @@
    .whiteKing {
         width: 45%;
         height: 21px;
-    }
-
-    #rookdiv {
-        left: -37px;
-        top: -11px;
     }
 
 }
