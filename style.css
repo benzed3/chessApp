@@ -90,13 +90,16 @@ header h3 {
     margin-right: auto;
 }
 
-.blackKnight {
-    position: relative;
-    width: 55%;
+#blackKnighta {
+    position: absolute;
+    width: 30px;
     height: 58px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+#blackKnightb {
+    position: absolute;
+    width: 30px;
+    height: 58px;
 }
 
 .whiteKnight {
