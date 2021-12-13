@@ -108,6 +108,10 @@ header h3 {
     height: 58px;
 }
 
+#knight1div {
+    position: absolute;
+}
+
 #blackKnightb {
     position: absolute;
     width: 30px;
