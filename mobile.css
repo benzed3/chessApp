@@ -53,7 +53,7 @@
         left: 140px;
     }
 
-    #rookdiv {
+    #rook1div {
         position: absolute;
         left: -1px;
         top: 0px;
@@ -64,6 +64,11 @@
         height: 54px;
         top: 110px;
         right: 140px;
+    }
+
+    #rook2Div {
+        top: 0;
+        right: -268px;
     }
 
    .blackKnight {

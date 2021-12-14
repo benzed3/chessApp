@@ -87,12 +87,6 @@ header h3 {
     left: -520px;
 }
 
-#rook2div {
-    position: absolute;
-    top: -2px;
-    right: 1px;
-}
-
 .whiteRook {
     position: relative;
     width: 45%;
