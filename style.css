@@ -3,6 +3,11 @@ body {
     background: whitesmoke;
 }
 
+/*header styling*/
+h1 {
+    margin: 0;
+}
+
 /*container stying*/
 .container {
     width: 100%;
