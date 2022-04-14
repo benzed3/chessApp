@@ -10,8 +10,9 @@ h1 {
 
 /*container stying*/
 .container {
-    width: 100%;
+    width: 39.495%;
     border-style: solid;
     border-width: 2px;
-    height: 500px;
+    height: 600px;
+    padding: 0;
 }
