@@ -13,3 +13,28 @@ h1 {
     padding: 20px 0 20px 0;
     font-family: 'Anton', sans-serif;
 }
+
+/*container stying*/
+.container {
+    background: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    height: 600px;
+    padding: 0;
+    width: 600px;
+}
+
+.square {
+    width: 12.5%;
+    height: 50px;
+    float: left;
+}
+
+.A {
+    background: white;
+}
+
+.B {
+    background: black;
+}
