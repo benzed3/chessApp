@@ -135,3 +135,21 @@ h1 {
     }
 
 }
+
+@media screen and (max-height: 415px) and (max-width: 897px) {
+
+    h1 {
+        font-size: 40px;
+        padding: 15px 0 15px 0;
+    }
+
+    .container {
+        height: 300px;
+        width: 33.49%;
+    }
+
+    .square {
+        height: 37px;
+    }
+
+}
