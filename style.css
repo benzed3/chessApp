@@ -81,5 +81,14 @@ h1 {
 }
 
 .container {
-    width: 100%;
+    width: 85%;
+    height: 459px;
+}
+
+.A {
+    height: 56.875px;
+}
+
+.B {
+    height: 56.875px;
 }
