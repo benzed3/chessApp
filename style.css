@@ -70,3 +70,16 @@ h1 {
 /*768x1024 screens*/
 
 /*1024x768*/
+
+/*540x720*/
+header {
+    width: 100%;
+}
+
+h1 {
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+}
