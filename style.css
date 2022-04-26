@@ -72,23 +72,28 @@ h1 {
 /*1024x768*/
 
 /*540x720*/
-header {
-    width: 100%;
-}
 
-h1 {
-    width: 100%;
-}
+@media screen and (max-width: 540px) and (max-height: 720px) {
 
-.container {
-    width: 85%;
-    height: 459px;
-}
+    header {
+        width: 100%;
+    }
 
-.A {
-    height: 56.875px;
-}
+    h1 {
+        width: 100%;
+    }
 
-.B {
-    height: 56.875px;
+    .container {
+        width: 85%;
+        height: 459px;
+    }
+
+    .A {
+        height: 56.875px;
+    }
+
+    .B {
+        height: 56.875px;
+    }
+
 }
