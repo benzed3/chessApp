@@ -25,6 +25,15 @@ h1 {
     width: 600px;
 }
 
+/*row  and col styling*/
+.row {
+    margin: 0;
+}
+
+.col-lg-12 {
+    padding: 0;
+}
+
 .square {
     width: 12.5%;
     height: 74.5px;
@@ -38,3 +47,7 @@ h1 {
 .B {
     background: green;
 }
+
+/*MEDIA QUERIES*/
+
+/*820x1180*/
