@@ -97,3 +97,21 @@ h1 {
     }
 
 }
+
+@media screen and (max-height: 540px) and (max-width: 720px) {
+
+    h1 {
+        font-size: 45px;
+        padding: 20px 0 20px 0;
+    }
+
+    .container {
+        width: 56.12%;
+        height: 404.062px;
+    }
+
+    .square {
+        height: 50px;
+    }
+
+}
