@@ -73,3 +73,18 @@
     }
 
 }
+
+/*414x896*/
+@media screen and (max-width: 415px) and (max-height: 897px) {
+
+    .container {
+        width: 375px;
+        height: 375px;
+    }
+
+    .square {
+        height: 46.875px;
+        width: 12.5%;
+    }
+
+}
