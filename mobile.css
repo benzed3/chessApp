@@ -14,3 +14,12 @@
     }
 
 }
+
+/*styling for 768x1024 screens*/
+@media screen and (max-height: 768px) and (max-width: 1024px) {
+
+    header {
+        padding: 20px 0 20px 0;
+    }
+
+}
