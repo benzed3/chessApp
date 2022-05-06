@@ -63,12 +63,12 @@
     }
 
     .container {
-        width: 500px;
-        height: 500px;
+        width: 425px;
+        height: 425px;
     }
 
     .square {
-        height: 62.5px;
+        height: 53.125px;
         width: 12.5%;
     }
 
