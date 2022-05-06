@@ -40,3 +40,18 @@
     }
 
 }
+
+/*540x720*/
+@media screen and (max-width: 540px) and (max-height: 720px) {
+
+    .container {
+        width: 500px;
+        height: 500px;
+    }
+
+    .square {
+        height: 62.5px;
+        width: 12.5%;
+    }
+
+}
