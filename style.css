@@ -27,4 +27,27 @@ h3 {
     width: 600px;
     height: 600px;
     background: white;
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+}
+
+.col-lg-12 {
+    padding: 0;
+}
+
+.square {
+    width: 12.5%;
+    height: 75px;
+    float: left;
+}
+
+.W {
+    background: white;
+}
+
+.B {
+    background: green;
 }
