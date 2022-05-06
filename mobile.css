@@ -88,3 +88,21 @@
     }
 
 }
+
+@media screen and (max-height: 415px) and (max-width: 897px) {
+
+    header {
+        padding: 10px 0 10px 0;
+    }
+
+    .container {
+        width: 300px;
+        height: 300px;
+    }
+
+    .square {
+        height: 37.5px;
+        width: 12.5%;
+    }
+
+}
