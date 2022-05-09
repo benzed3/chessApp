@@ -237,4 +237,13 @@
         font-size: 15px;
     }
 
+    .container {
+        width: 250px;
+        height: 250px;
+    }
+
+    .square {
+        height: 31.25px;
+    }
+
 }
