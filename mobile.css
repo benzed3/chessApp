@@ -128,4 +128,14 @@
         padding: 10px 0 10px 0;
     }
 
+    .container {
+        width: 300px;
+        height: 300px;
+    }
+
+    .square {
+        height: 37.5px;
+        width: 12.5%;
+    }
+
 }
