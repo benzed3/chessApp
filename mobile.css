@@ -140,6 +140,19 @@
 
 }
 
+/*393x851*/
+@media screen and (max-height: 394px) and (max-width: 852px) {
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+}
+
 /*390x844*/
 @media screen and (max-height: 391px) and (max-width: 845px) {
 
