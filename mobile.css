@@ -247,3 +247,16 @@
     }
 
 }
+
+@media screen and (max-height: 281px) and (max-width: 654px) {
+
+    .container {
+        width: 225px;
+        height: 225px;
+    }
+
+    .square {
+        height: 28.125px;
+    }
+
+}
