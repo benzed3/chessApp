@@ -107,6 +107,7 @@
 
 }
 
+/*412x915*/
 @media screen and (max-width: 413px) and (max-height: 916px) {
 
     .container {
@@ -117,6 +118,14 @@
     .square {
         height: 46.875px;
         width: 12.5%;
+    }
+
+}
+
+@media screen and (max-height: 413px) and (max-width: 916px) {
+
+    header {
+        padding: 10px 0 10px 0;
     }
 
 }
