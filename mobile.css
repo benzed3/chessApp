@@ -184,11 +184,11 @@
 
 }
 
-/*375x667*/
+/*styling for 375x667*/
 @media screen and (max-width: 376px) and (max-height: 668px) {
 
     header {
-        padding: 13px 0 13px 0;
+        padding: 20px 0 20px 0;
     }
 
     h1 {
