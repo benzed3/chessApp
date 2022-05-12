@@ -41,7 +41,7 @@
 
 }
 
-/*600x1024*/
+/*styling for 600x1024*/
 @media screen and (max-height: 600px) and (max-width: 1025px) {
 
     header {
@@ -59,7 +59,7 @@
 
 }
 
-/*540x720*/
+/*styling for 540x720*/
 @media screen and (max-width: 540px) and (max-height: 720px) {
 
     .container {
@@ -94,6 +94,10 @@
 
 /*414x896*/
 @media screen and (max-width: 415px) and (max-height: 897px) {
+
+    header {
+        padding: 20px 0 20px 0;
+    }
 
     .container {
         width: 375px;
