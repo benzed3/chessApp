@@ -182,15 +182,15 @@
 
 }
 
-/*393x851*/
+/*styling 393x851*/
 @media screen and (max-height: 394px) and (max-width: 852px) {
 
     h1 {
-        font-size: 28px;
+        font-size: 27px;
     }
 
     h3 {
-        font-size: 18px;
+        font-size: 22px;
     }
 
 }
