@@ -92,7 +92,7 @@
 
 }
 
-/*414x896*/
+/*styling for 414x896*/
 @media screen and (max-width: 415px) and (max-height: 897px) {
 
     header {
@@ -137,8 +137,12 @@
 
 }
 
-/*412x915*/
+/*styling for 412x915*/
 @media screen and (max-width: 413px) and (max-height: 916px) {
+
+    header {
+        padding: 20px 0 20px 0;
+    }
 
     .container {
         width: 375px;
