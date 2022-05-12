@@ -266,6 +266,16 @@
         font-size: 15px;
     }
 
+    .container {
+        width: 280px;
+        height: 280px;
+    }
+
+    .square {
+        height: 35px;
+    }
+
+
 }
 
 /*280x653*/
