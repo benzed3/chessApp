@@ -117,6 +117,14 @@
         padding: 10px 0 10px 0;
     }
 
+    h1 {
+        font-size: 27px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
     .container {
         width: 300px;
         height: 300px;
