@@ -244,6 +244,10 @@
 
 @media screen and (max-height: 376px) and (max-width: 668px) {
 
+    header {
+        padding: 10px 0 10px 0;
+    }
+
     h1 {
         font-size: 25px;
     }
