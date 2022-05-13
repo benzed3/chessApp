@@ -28,10 +28,11 @@
 
             <div class="col-lg-12">
 
-                <div class="square W">
-                    <img src="images/black_rook.jpg" id="blackRook1">
+                <div class="square W" class="droptarget" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    <img src="images/black_rook.jpg" id="blackRook1" ondragstart="dragStart(event)"
+                        ondrag="dragging(event)" draggable="true" id="dragtarget">
                 </div>
-                <div class="square B"></div>
+                <div class="square B" class="droptarget" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                 <div class="square W"></div>
                 <div class="square B"></div>
                 <div class="square W"></div>
@@ -139,6 +140,7 @@
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
         </script>
 
+    <script src="app.js"></script>
 </body>
 
 </html>
