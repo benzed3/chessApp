@@ -73,3 +73,10 @@ h3 {
     margin: auto;
     display: block;
 }
+
+#blackQueen {
+    max-width: 100%;
+    max-height: 90%;
+    margin: auto;
+    display: block;
+}
