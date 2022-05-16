@@ -164,3 +164,116 @@ h3 {
     margin: auto;
     display: block;
 }
+
+/*white pieces*/
+#whiteRook1 {
+    max-width: 100%;
+    max-height: 85%;
+    margin: auto;
+    display: block;
+}
+
+#whiteKnight1 {
+    max-width: 100%;
+    max-height: 75%;
+    margin: auto;
+    display: block;
+}
+
+#whiteBishop1 {
+    max-width: 100%;
+    max-height: 80%;
+    margin: auto;
+    display: block;
+}
+
+#whiteQueen {
+    max-width: 100%;
+    max-height: 90%;
+    margin: auto;
+    display: block;
+}
+
+#whiteKing {
+    max-width: 100%;
+    max-height: 95%;
+    margin: auto;
+    display: block;
+}
+
+#whiteRook2 {
+    max-width: 100%;
+    max-height: 85%;
+    margin: auto;
+    display: block;
+}
+
+#whiteKnight2 {
+    max-width: 100%;
+    max-height: 75%;
+    margin: auto;
+    display: block;
+}
+
+#whiteBishop2 {
+    max-width: 100%;
+    max-height: 80%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnA {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnB {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnC {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnD {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnE {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnF {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnG {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#whitePawnH {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
