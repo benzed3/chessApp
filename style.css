@@ -88,7 +88,77 @@ h3 {
     display: block;
 }
 
+#blackRook2 {
+    max-width: 100%;
+    max-height: 85%;
+    margin: auto;
+    display: block;
+}
+
+#blackKnight2 {
+    max-width: 100%;
+    max-height: 75%;
+    margin: auto;
+    display: block;
+}
+
+#blackBishop2 {
+    max-width: 100%;
+    max-height: 80%;
+    margin: auto;
+    display: block;
+}
+
 #blackPawnA {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#blackPawnB {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#blackPawnC {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#blackPawnD {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#blackPawnE {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#blackPawnF {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#blackPawnG {
+    max-width: 100%;
+    max-height: 70%;
+    margin: auto;
+    display: block;
+}
+
+#blackPawnH {
     max-width: 100%;
     max-height: 70%;
     margin: auto;
