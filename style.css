@@ -53,35 +53,3 @@ h3 {
 }
 
 /*pieces*/
-.pieceDiv {
-    width: 75px;
-    height: 75px;
-}
-
-#mydivblackrook1 {
-    width: 75px;
-    height: 75px;
-}
-
-#blackRook1 {
-    margin: auto;
-    display: block;
-    height: 100%;
-    width: 50%;
-}
-
-#mydivblacknight1 {
-    width: 75px;
-    height: 75px;
-}
-
-#blackKnight1 {
-    margin: auto;
-    display: block;
-    height: 100%;
-    width: 50%;
-}
-
-#mydiv {
-    position: absolute;
-}
