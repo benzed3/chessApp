@@ -53,3 +53,22 @@ h3 {
 }
 
 /*pieces*/
+
+/*black rook 1*/
+#blackRook1 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#br {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+}
+
+#brrookone {
+    width: 75px;
+    height: 75px;
+}
