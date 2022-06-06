@@ -43,7 +43,7 @@ function dragElement(elmnt) {
 }
 
 //touch and drag for blackrook 1//
-var brookone = document.getElementById("brrookone");
+var brookone = document.getElementById("brookimg1");
 
 brookone.addEventListener("touchmove", function (ev) {
 
