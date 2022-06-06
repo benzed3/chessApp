@@ -41,3 +41,24 @@ function dragElement(elmnt) {
         document.onmousemove = null;
     }
 }
+
+//touch and drag for blackrook 1//
+var brookone = document.getElementById("brrookone");
+
+brookone.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    brookone.style.left = touchLocation.pageX + "px";
+    brookone.style.top = touchLocation.pageY + "px";
+
+})
+
+brookone.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(brookone.style.left);
+    var y = parseInt(brookone.style.top);
+
+})
