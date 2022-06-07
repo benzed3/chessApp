@@ -240,6 +240,17 @@
         height: 43.75px;
     }
 
+    #br {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+    }
+
+    #brookimg1 {
+        width: 30px;
+        height: 30px;
+    }
+
 }
 
 @media screen and (max-height: 376px) and (max-width: 668px) {
