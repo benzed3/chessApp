@@ -57,6 +57,13 @@
         height: 61.25px;
     }
 
+    #br {
+        position: absolute;
+        left: 260px;
+        width: 75px;
+        height: 75px;
+    }
+
 }
 
 /*styling for 540x720*/
