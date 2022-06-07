@@ -109,6 +109,13 @@
         width: 12.5%;
     }
 
+    #br {
+        position: absolute;
+        left: 25px;
+        width: 34px;
+        height: 34px;
+    }
+
 }
 
 @media screen and (max-height: 415px) and (max-width: 897px) {
