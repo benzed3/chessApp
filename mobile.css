@@ -429,6 +429,13 @@
         height: 31.25px;
     }
 
+    #br {
+        position: absolute;
+        left: 18px;
+        width: 23px;
+        height: 23px;
+    }
+
 }
 
 @media screen and (max-height: 281px) and (max-width: 654px) {
@@ -440,6 +447,13 @@
 
     .square {
         height: 25.625px;
+    }
+
+    #br {
+        position: absolute;
+        left: 228px;
+        width: 18px;
+        height: 18px;
     }
 
 }
