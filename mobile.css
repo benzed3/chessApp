@@ -142,6 +142,13 @@
         width: 12.5%;
     }
 
+    #br {
+        position: absolute;
+        left: 302px;
+        width: 27px;
+        height: 27px;
+    }
+
 }
 
 /*styling for 412x915*/
