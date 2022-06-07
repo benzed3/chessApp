@@ -263,6 +263,13 @@
         font-size: 15px;
     }
 
+    #br {
+        position: absolute;
+        left: 187px;
+        width: 28px;
+        height: 28px;
+    }
+
 }
 
 /* styling for 360x740*/
