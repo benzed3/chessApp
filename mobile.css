@@ -216,6 +216,13 @@
         padding: 20px 0 20px 0;
     }
 
+    #br {
+        position: absolute;
+        left: 14px;
+        width: 34px;
+        height: 34px;
+    }
+
 }
 
 @media screen and (max-height: 391px) and (max-width: 845px) {
@@ -228,6 +235,12 @@
         font-size: 20px;
     }
 
+    #br {
+        position: absolute;
+        left: 278px;
+        width: 27px;
+        height: 27px;
+    }
 }
 
 /*styling for 375x667*/
