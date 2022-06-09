@@ -163,11 +163,13 @@
         width: 12.5%;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
+        top: 82px;
         left: 302px;
-        width: 27px;
-        height: 27px;
+        width: 25px;
+        height: 25px;
     }
 
 }
