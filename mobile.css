@@ -502,11 +502,13 @@
         height: 31.25px;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
-        left: 18px;
-        width: 23px;
-        height: 23px;
+        top: 66px;
+        left: 21px;
+        width: 20px;
+        height: 20px;
     }
 
 }
@@ -522,11 +524,13 @@
         height: 25.625px;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
-        left: 228px;
-        width: 18px;
-        height: 18px;
+        top: 66px;
+        left: 229px;
+        width: 16px;
+        height: 16px;
     }
 
 }
