@@ -271,11 +271,12 @@
         padding: 20px 0 20px 0;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
         left: 14px;
-        width: 34px;
-        height: 34px;
+        width: 31px;
+        height: 31px;
     }
 
 }
@@ -290,10 +291,12 @@
         font-size: 20px;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
+        top: 84px;
         left: 278px;
-        width: 27px;
+        width: 25px;
         height: 27px;
     }
 }
