@@ -131,9 +131,10 @@
 
     #br {
         position: absolute;
+        top: 106px;
         left: 25px;
-        width: 34px;
-        height: 34px;
+        width: 32px;
+        height: 32px;
     }
 
 }
