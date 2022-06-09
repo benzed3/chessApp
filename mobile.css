@@ -191,11 +191,13 @@
         width: 12.5%;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
-        left: 24px;
-        width: 33px;
-        height: 33px;
+        top: 107px;
+        left: 26px;
+        width: 30px;
+        height: 30px;
     }
 
 }
@@ -224,11 +226,13 @@
         width: 12.5%;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
+        top: 89px;
         left: 313px;
-        width: 26px;
-        height: 26px;
+        width: 25px;
+        height: 25px;
     }
 
 }
