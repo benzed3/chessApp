@@ -5,12 +5,28 @@
         padding: 30px 0 30px 0;
     }
 
+    /*black rook 1*/
+    #br {
+        position: absolute;
+        top: 143px;
+        width: 75px;
+        height: 75px;
+    }
+
 }
 
 @media screen and (max-height: 912px) and (max-width: 1368px) {
 
     header {
         padding: 30px 0 30px 0;
+    }
+
+    /*black rook 1*/
+    #br {
+        position: absolute;
+        top: 151px;
+        width: 75px;
+        height: 75px;
     }
 
 }
@@ -103,10 +119,13 @@
         width: 12.5%;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
-        width: 62px;
-        height: 62px;
+        left: 30px;
+        top: 110px;
+        width: 42px;
+        height: 42px;
     }
 
 }
@@ -127,8 +146,10 @@
         width: 12.5%;
     }
 
+    /*black rook 1*/
     #br {
         position: absolute;
+        top: 95px;
         left: 155px;
         width: 36px;
         height: 36px;
