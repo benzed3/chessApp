@@ -314,6 +314,15 @@
         height: 31px;
     }
 
+    /*black knight 1*/
+    #bn {
+        position: absolute;
+        top: 108px;
+        width: 39px;
+        height: 75px;
+        left: 61px;
+    }
+
 }
 
 @media screen and (max-height: 394px) and (max-width: 852px) {
@@ -333,6 +342,15 @@
         left: 281px;
         width: 25px;
         height: 25px;
+    }
+
+    /*black knight 1*/
+    #bn {
+        position: absolute;
+        top: 90px;
+        width: 30px;
+        height: 75px;
+        left: 317px;
     }
 
 }
