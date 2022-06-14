@@ -13,6 +13,14 @@
         height: 75px;
     }
 
+    /*black knight 1*/
+    #bn {
+        position: absolute;
+        top: 144px;
+        width: 75px;
+        height: 75px;
+    }
+
 }
 
 @media screen and (max-height: 912px) and (max-width: 1368px) {
@@ -23,6 +31,14 @@
 
     /*black rook 1*/
     #br {
+        position: absolute;
+        top: 151px;
+        width: 75px;
+        height: 75px;
+    }
+
+    /*black knight 1*/
+    #bn {
         position: absolute;
         top: 151px;
         width: 75px;
