@@ -96,6 +96,12 @@
     }
 
     /*black knight 1*/
+    #bn {
+        position: absolute;
+        top: 127px;
+        width: 75px;
+        height: 75px;
+    }
 
 
 }
