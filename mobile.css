@@ -389,6 +389,16 @@
         height: 30px
     }
 
+    /*black knight 1*/
+
+    #bn {
+        position: absolute;
+        top: 88px;
+        width: 39px;
+        height: 39px;
+        left: 59px;
+    }
+
 }
 
 @media screen and (max-height: 376px) and (max-width: 668px) {
