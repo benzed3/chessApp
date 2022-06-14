@@ -147,6 +147,15 @@
         height: 42px;
     }
 
+    /*black knight 1*/
+    #bn {
+        position: absolute;
+        top: 102px;
+        width: 55px;
+        height: 75px;
+        left: 332px;
+    }
+
 }
 
 /*styling for 540x720*/
