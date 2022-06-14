@@ -43,22 +43,3 @@ function dragElement(elmnt) {
 }
 
 //touch and drag for blackrook 1//
-var brookone = document.getElementById("brookimg1");
-
-brookone.addEventListener("touchmove", function (ev) {
-
-    ev.preventDefault();
-
-    var touchLocation = ev.targetTouches[0];
-
-    brookone.style.left = touchLocation.pageX + "px";
-    brookone.style.top = touchLocation.pageY + "px";
-
-})
-
-brookone.addEventListener("touchend", function (ev) {
-
-    var x = parseInt(brookone.style.left);
-    var y = parseInt(brookone.style.top);
-
-})
