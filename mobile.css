@@ -157,6 +157,13 @@
     }
 
     /*black bishop*/
+    #bb {
+        position: absolute;
+        top: 103px;
+        width: 47px;
+        height: 75px;
+        left: 395px;
+    }
 
 }
 
