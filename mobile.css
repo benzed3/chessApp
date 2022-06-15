@@ -198,6 +198,15 @@
         left: 86px;
     }
 
+    /*black bishop 1*/
+    #bb {
+        position: absolute;
+        top: 111px;
+        width: 48px;
+        height: 75px;
+        left: 151px;
+    }
+
 }
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
@@ -232,6 +241,15 @@
         width: 48px;
         height: 75px;
         left: 205px;
+    }
+
+    /*black bishop*/
+    #bb {
+        position: absolute;
+        top: 96px;
+        width: 40px;
+        height: 75px;
+        left: 260px;
     }
 
 }
