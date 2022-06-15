@@ -83,3 +83,18 @@ h3 {
     width: 75px;
     height: 75px;
 }
+
+/*black bishop 1*/
+#blackBishop1 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#bb {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 75px;
+}
