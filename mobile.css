@@ -113,6 +113,18 @@
 }
 
 /*styling for 768x1024 screens*/
+@media screen and (max-width: 768px) and (max-height: 1024px) {
+
+    /*black bishop 1*/
+    #bb {
+        position: absolute;
+        top: 132px;
+        width: 75px;
+        height: 75px;
+    }
+
+}
+
 @media screen and (max-height: 768px) and (max-width: 1024px) {
 
     header {
@@ -135,6 +147,13 @@
         height: 75px;
     }
 
+    /*black bishop 1*/
+    #bb {
+        position: absolute;
+        top: 128px;
+        width: 75px;
+        height: 75px;
+    }
 
 }
 
