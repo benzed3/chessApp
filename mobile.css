@@ -21,6 +21,14 @@
         height: 75px;
     }
 
+    /*black bishop 1*/
+    #bb {
+        position: absolute;
+        top: 145px;
+        width: 75px;
+        height: 75px;
+    }
+
 }
 
 @media screen and (max-height: 912px) and (max-width: 1368px) {
@@ -41,6 +49,14 @@
     #bn {
         position: absolute;
         top: 151px;
+        width: 75px;
+        height: 75px;
+    }
+
+    /*black bishop 1*/
+    #bb {
+        position: absolute;
+        top: 152px;
         width: 75px;
         height: 75px;
     }
