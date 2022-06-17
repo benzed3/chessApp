@@ -266,6 +266,13 @@
         left: 151px;
     }
 
+    /*black queen*/
+    #bq {
+        top: 110px;
+        width: 30px;
+        left: 223px;
+    }
+
 }
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
@@ -309,6 +316,13 @@
         width: 40px;
         height: 75px;
         left: 260px;
+    }
+
+    /*black queen*/
+    #bq {
+        top: 94px;
+        left: 320px;
+        width: 27px;
     }
 
 }
