@@ -98,3 +98,18 @@ h3 {
     width: 75px;
     height: 75px;
 }
+
+/*black queen*/
+#blackQueen {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#bq {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 75px;
+}
