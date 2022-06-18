@@ -188,3 +188,101 @@ h3 {
     width: 75px;
     height: 75px;
 }
+
+#pawn2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnb {
+    position: absolute;
+    top: 195px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn3 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnc {
+    position: absolute;
+    top: 195px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn4 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnd {
+    position: absolute;
+    top: 195px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn5 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawne {
+    position: absolute;
+    top: 195px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn6 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnf {
+    position: absolute;
+    top: 195px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn7 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawng {
+    position: absolute;
+    top: 195px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn8 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnh {
+    position: absolute;
+    top: 195px;
+    width: 75px;
+    height: 75px;
+}
