@@ -113,3 +113,63 @@ h3 {
     width: 75px;
     height: 75px;
 }
+
+/*black king*/
+#blackKing {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#bk {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 75px;
+}
+
+/*black bishop 2*/
+#blackBishop2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#bb2 {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 75px;
+}
+
+/*black knight 2*/
+#blackKnight2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#bn2 {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 75px;
+}
+
+/*black rook 2*/
+#blackRook2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#br2 {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 75px;
+}
