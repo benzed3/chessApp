@@ -748,6 +748,13 @@
         left: 353px;
     }
 
+    /*black queen*/
+    #bq {
+        top: 84px;
+        left: 395px;
+        width: 18px;
+    }
+
 }
 
 /*styling for 375x667*/
