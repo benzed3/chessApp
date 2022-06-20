@@ -37,6 +37,14 @@
         height: 75px;
     }
 
+    /*black king*/
+    #bk {
+        position: absolute;
+        top: 143px;
+        width: 75px;
+        height: 75px;
+    }
+
 }
 
 @media screen and (max-height: 912px) and (max-width: 1368px) {
@@ -71,6 +79,14 @@
 
     /*black queen*/
     #bq {
+        position: absolute;
+        top: 150px;
+        width: 75px;
+        height: 75px;
+    }
+
+    /*black king*/
+    #bk {
         position: absolute;
         top: 150px;
         width: 75px;
@@ -337,6 +353,15 @@
         left: 223px;
     }
 
+    /*black king*/
+    #bk {
+        position: absolute;
+        top: 108px;
+        width: 75px;
+        height: 75px;
+        left: 264px;
+    }
+
 }
 
 @media screen and (max-height: 540px) and (max-width: 720px) {
@@ -387,6 +412,15 @@
         top: 94px;
         left: 320px;
         width: 27px;
+    }
+
+    /*black king*/
+    #bk {
+        position: absolute;
+        top: 92px;
+        width: 33px;
+        height: 75px;
+        left: 369px;
     }
 
 }
