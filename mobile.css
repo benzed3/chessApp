@@ -288,7 +288,7 @@
         left: 332px;
     }
 
-    /*black bishop*/
+    /*black bishop 1*/
     #bb {
         position: absolute;
         top: 103px;
@@ -296,6 +296,16 @@
         height: 75px;
         left: 395px;
     }
+
+    /*black bishop 2*/
+    #bb2 {
+        position: absolute;
+        top: 103px;
+        width: 47px;
+        height: 75px;
+        left: 582px;
+    }
+
 
     /*black queen*/
     #bq {
