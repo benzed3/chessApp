@@ -420,6 +420,15 @@
         left: 172px;
     }
 
+    /*black king*/
+    #bk {
+        position: absolute;
+        top: 104px;
+        width: 30px;
+        height: 75px;
+        left: 214px;
+    }
+
 }
 
 @media screen and (max-height: 415px) and (max-width: 897px) {
@@ -478,6 +487,15 @@
         top: 83px;
         left: 421px;
         width: 18px;
+    }
+
+    /*black king*/
+    #bk {
+        position: absolute;
+        top: 81px;
+        width: 23px;
+        height: 75px;
+        LEFT: 454px;
     }
 
 }
