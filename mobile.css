@@ -173,6 +173,62 @@
         height: 75px;
     }
 
+    #pawna {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
+    #pawnb {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
+    #pawnc {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
+    #pawnd {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
+    #pawne {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
+    #pawnf {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
+    #pawng {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
+    #pawnh {
+        position: absolute;
+        top: 226px;
+        width: 75px;
+        height: 75px;
+    }
+
 }
 
 /*styling for 820x1180 screens*/
