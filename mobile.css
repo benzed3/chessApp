@@ -939,6 +939,15 @@
         height: 25px;
     }
 
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 89px;
+        left: 577px;
+        width: 25px;
+        height: 25px;
+    }
+
     /*black knight 1*/
     #bn {
         position: absolute;
@@ -948,6 +957,15 @@
         left: 349px;
     }
 
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 90px;
+        width: 30px;
+        height: 75px;
+        left: 536px;
+    }
+
     /*black bishop*/
     #bb {
         position: absolute;
@@ -955,6 +973,15 @@
         width: 27px;
         height: 75px;
         left: 387px;
+    }
+
+    /*black bishop 2*/
+    #bb2 {
+        position: absolute;
+        top: 90px;
+        width: 27px;
+        height: 75px;
+        left: 500px;
     }
 
     /*black queen*/
@@ -971,6 +998,71 @@
         width: 23px;
         height: 75px;
         left: 463px;
+    }
+
+    /*black pawns*/
+    #pawna {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 313px;
+    }
+
+    #pawnb {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 351px;
+    }
+
+    #pawnc {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 389px;
+    }
+
+    #pawnd {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 426px;
+    }
+
+    #pawne {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 464px;
+    }
+
+    #pawnf {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 501px;
+    }
+
+    #pawng {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 539px;
+    }
+
+    #pawnh {
+        position: absolute;
+        top: 127px;
+        width: 25px;
+        height: 75px;
+        left: 577px;
     }
 
 }
