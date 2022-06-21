@@ -183,6 +183,30 @@
         top: 150px;
     }
 
+    /*black bishop 2*/
+    #bb2 {
+        position: absolute;
+        top: 152px;
+        width: 75px;
+        height: 75px;
+    }
+
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 151px;
+        width: 75px;
+        height: 75px;
+    }
+
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 151px;
+        width: 75px;
+        height: 75px;
+    }
+
     /*pawns*/
     #pawna {
         position: absolute;
