@@ -734,6 +734,70 @@
         left: 369px;
     }
 
+    #pawna {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 157px;
+    }
+
+    #pawnb {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 210px;
+    }
+
+    #pawnc {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 263px;
+    }
+
+    #pawnd {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 315px;
+    }
+
+    #pawne {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 369px;
+    }
+
+    #pawnf {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 422px;
+    }
+
+    #pawng {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 474px;
+    }
+
+    #pawnh {
+        position: absolute;
+        top: 150px;
+        width: 35px;
+        height: 75px;
+        left: 529px;
+    }
+
 }
 
 /*styling for 414x896*/
