@@ -673,6 +673,15 @@
         height: 36px;
     }
 
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 95px;
+        left: 528px;
+        width: 36px;
+        height: 36px;
+    }
+
     /*black knight 1*/
     #bn {
         position: absolute;
@@ -682,6 +691,15 @@
         left: 205px;
     }
 
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 94px;
+        width: 48px;
+        height: 75px;
+        left: 469px;
+    }
+
     /*black bishop*/
     #bb {
         position: absolute;
@@ -689,6 +707,15 @@
         width: 40px;
         height: 75px;
         left: 260px;
+    }
+
+    /*black bishop 2*/
+    #bb2 {
+        position: absolute;
+        top: 96px;
+        width: 40px;
+        height: 75px;
+        left: 420px;
     }
 
     /*black queen*/
