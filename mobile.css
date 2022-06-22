@@ -438,6 +438,14 @@
 /*styling for 768x1024 screens*/
 @media screen and (max-width: 768px) and (max-height: 1024px) {
 
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 130px;
+        width: 75px;
+        height: 75px;
+    }
+
     /*black knight 2*/
     #bn2 {
         position: absolute;
