@@ -326,6 +326,71 @@
         height: 75px;
     }
 
+    /*black pawns*/
+    #pawna {
+        left: 126px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
+    #pawnb {
+        left: 204px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
+    #pawnc {
+        left: 279px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
+    #pawnd {
+        left: 353px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
+    #pawne {
+        left: 428px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
+    #pawnf {
+        left: 502px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
+    #pawng {
+        left: 578px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
+    #pawnh {
+        left: 653px;
+        position: absolute;
+        top: 213px;
+        width: 40px;
+        height: 75px;
+    }
+
 }
 
 @media screen and (max-height: 820px) and (max-width: 1180px) {
