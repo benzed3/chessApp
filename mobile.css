@@ -446,6 +446,14 @@
         height: 75px;
     }
 
+    /*black bishop 2*/
+    #bb2 {
+        position: absolute;
+        top: 132px;
+        width: 75px;
+        height: 75px;
+    }
+
     /*black queen*/
     #bq {
         position: absolute;
