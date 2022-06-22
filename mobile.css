@@ -438,6 +438,14 @@
 /*styling for 768x1024 screens*/
 @media screen and (max-width: 768px) and (max-height: 1024px) {
 
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 131px;
+        width: 75px;
+        height: 75px;
+    }
+
     /*black bishop 1*/
     #bb {
         position: absolute;
