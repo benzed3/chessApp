@@ -2050,6 +2050,15 @@
         height: 29px;
     }
 
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 99px;
+        left: 320px;
+        width: 29px;
+        height: 29px;
+    }
+
     /*black knight 1*/
     #bn {
         position: absolute;
