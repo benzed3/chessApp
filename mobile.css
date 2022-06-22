@@ -559,6 +559,14 @@
         height: 75px;
     }
 
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 130px;
+        width: 75px;
+        height: 75px;
+    }
+
     /*black knight 1*/
     #bn {
         position: absolute;
@@ -567,8 +575,24 @@
         height: 75px;
     }
 
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 127px;
+        width: 75px;
+        height: 75px;
+    }
+
     /*black bishop 1*/
     #bb {
+        position: absolute;
+        top: 128px;
+        width: 75px;
+        height: 75px;
+    }
+
+    /*black bishop 2*/
+    #bb2 {
         position: absolute;
         top: 128px;
         width: 75px;
