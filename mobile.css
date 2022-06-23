@@ -2553,6 +2553,15 @@
         left: 224px;
     }
 
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 72px;
+        width: 32px;
+        height: 75px;
+        left: 413px;
+    }
+
     /*black bishop 1*/
     #bb {
         position: absolute;
