@@ -2391,13 +2391,21 @@
 
 
     /*black knight 1*/
-
     #bn {
         position: absolute;
         top: 88px;
         width: 39px;
         height: 39px;
         left: 59px;
+    }
+
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 88px;
+        width: 39px;
+        height: 39px;
+        left: 279px;
     }
 
     /*black bishop 1*/
