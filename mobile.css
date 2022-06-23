@@ -2372,7 +2372,6 @@
     }
 
     /*black rook 1*/
-
     #br {
         position: absolute;
         top: 89px;
@@ -2380,6 +2379,16 @@
         width: 30px;
         height: 30px
     }
+
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 89px;
+        left: 327px;
+        width: 30px;
+        height: 30px
+    }
+
 
     /*black knight 1*/
 
