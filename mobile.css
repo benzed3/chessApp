@@ -2037,6 +2037,15 @@
         height: 27px;
     }
 
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 84px;
+        left: 541px;
+        width: 25px;
+        height: 27px;
+    }
+
     /*black knight 1*/
     #bn {
         position: absolute;
@@ -2046,6 +2055,15 @@
         left: 314px;
     }
 
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 85px;
+        width: 30px;
+        height: 75px;
+        left: 501px;
+    }
+
     /*black bishop 1*/
     #bb {
         position: absolute;
@@ -2053,6 +2071,15 @@
         width: 27px;
         height: 75px;
         left: 353px;
+    }
+
+    /*black bishop 2*/
+    #bb2 {
+        position: absolute;
+        top: 85px;
+        width: 27px;
+        height: 75px;
+        left: 465px;
     }
 
     /*black queen*/
@@ -2069,6 +2096,71 @@
         width: 23px;
         height: 75px;
         LEFT: 429px;
+    }
+
+    /*black pawns*/
+    #pawna {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 279px;
+    }
+
+    #pawnb {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 317px;
+    }
+
+    #pawnc {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 354px;
+    }
+
+    #pawnd {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 392px;
+    }
+
+    #pawne {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 429px;
+    }
+
+    #pawnf {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 466px;
+    }
+
+    #pawng {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 505px;
+    }
+
+    #pawnh {
+        position: absolute;
+        top: 124px;
+        width: 23px;
+        height: 75px;
+        left: 542px;
     }
 
 }
