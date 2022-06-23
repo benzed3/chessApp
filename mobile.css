@@ -1253,6 +1253,15 @@
         height: 32px;
     }
 
+    /*black rook 2*/
+    #br2 {
+        position: absolute;
+        top: 106px;
+        left: 356px;
+        width: 32px;
+        height: 32px;
+    }
+
     /*black knight 1*/
     #bn {
         position: absolute;
@@ -1262,6 +1271,15 @@
         left: 71px;
     }
 
+    /*black knight 2*/
+    #bn2 {
+        position: absolute;
+        top: 108px;
+        width: 39px;
+        height: 75px;
+        left: 305px;
+    }
+
     /*black bishop 1*/
     #bb {
         position: absolute;
@@ -1269,6 +1287,15 @@
         width: 34px;
         height: 75px;
         left: 119px;
+    }
+
+    /*black bishop 2*/
+    #bb2 {
+        position: absolute;
+        top: 108px;
+        width: 34px;
+        height: 75px;
+        left: 260px;
     }
 
     /*black queen*/
@@ -1287,6 +1314,70 @@
         width: 30px;
         height: 75px;
         left: 214px;
+    }
+
+    #pawna {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 27px;
+    }
+
+    #pawnb {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 74px;
+    }
+
+    #pawnc {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 122px;
+    }
+
+    #pawnd {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 168px;
+    }
+
+    #pawne {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 215px;
+    }
+
+    #pawnf {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 261px;
+    }
+
+    #pawng {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 309px;
+    }
+
+    #pawnh {
+        position: absolute;
+        top: 157px;
+        width: 29px;
+        height: 75px;
+        left: 357px;
     }
 
 }
