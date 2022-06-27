@@ -234,56 +234,48 @@
     #br {
         top: 130px;
         width: 75px;
-        height: 75px;
     }
 
     /*black rook 2*/
     #br2 {
         top: 130px;
         width: 75px;
-        height: 75px;
     }
 
     /*black knight 1*/
     #bn {
         top: 131px;
         width: 75px;
-        height: 75px;
     }
 
     /*black knight 2*/
     #bn2 {
         top: 131px;
         width: 75px;
-        height: 75px;
     }
 
     /*black bishop 1*/
     #bb {
         top: 132px;
         width: 75px;
-        height: 75px;
     }
 
     /*black bishop 2*/
     #bb2 {
         top: 132px;
         width: 75px;
-        height: 75px;
     }
 
     /*black queen*/
     #bq {
         top: 131px;
         width: 75px;
-        height: 75px;
     }
 
     /*black king*/
     #bk {
         top: 130px;
         width: 75px;
-        height: 75px;
     }
 
     /*black pawns*/
@@ -291,7 +283,6 @@
         left: 126px;
         top: 213px;
         width: 40px;
-        height: 75px;
     }
 
     #pawnb {
