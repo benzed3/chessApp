@@ -822,7 +822,6 @@
 
     /*black rook 1*/
     #br {
-        position: absolute;
         left: 30px;
         top: 110px;
         width: 42px;
@@ -831,7 +830,6 @@
 
     /*black rook 2*/
     #br2 {
-        position: absolute;
         left: 470px;
         top: 110px;
         width: 42px;
@@ -840,7 +838,6 @@
 
     /*black knight*/
     #bn {
-        position: absolute;
         top: 111px;
         width: 55px;
         height: 75px;
@@ -849,7 +846,6 @@
 
     /*black knight 2*/
     #bn2 {
-        position: absolute;
         top: 111px;
         width: 55px;
         height: 75px;
@@ -858,7 +854,6 @@
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
         top: 111px;
         width: 48px;
         height: 75px;
@@ -867,7 +862,6 @@
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
         top: 111px;
         width: 48px;
         height: 75px;
@@ -883,7 +877,6 @@
 
     /*black king*/
     #bk {
-        position: absolute;
         top: 108px;
         width: 75px;
         height: 75px;
@@ -892,7 +885,6 @@
 
     /*black pawns*/
     #pawna {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
@@ -900,7 +892,6 @@
     }
 
     #pawnb {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
@@ -908,7 +899,6 @@
     }
 
     #pawnc {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
@@ -916,7 +906,6 @@
     }
 
     #pawnd {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
@@ -924,7 +913,6 @@
     }
 
     #pawne {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
@@ -932,7 +920,6 @@
     }
 
     #pawnf {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
@@ -940,7 +927,6 @@
     }
 
     #pawng {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
@@ -948,7 +934,6 @@
     }
 
     #pawnh {
-        position: absolute;
         top: 174px;
         width: 40px;
         height: 75px;
