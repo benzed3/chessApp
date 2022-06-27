@@ -283,55 +283,56 @@
         left: 126px;
         top: 213px;
         width: 40px;
+        height: 45px;
     }
 
     #pawnb {
         left: 204px;
         top: 213px;
         width: 40px;
-        height: 75px;
+        height: 45px;
     }
 
     #pawnc {
         left: 279px;
         top: 213px;
         width: 40px;
-        height: 75px;
+        height: 45px;
     }
 
     #pawnd {
         left: 353px;
         top: 213px;
         width: 40px;
-        height: 75px;
+        height: 45px;
     }
 
     #pawne {
         left: 428px;
         top: 213px;
         width: 40px;
-        height: 75px;
+        height: 45px;
     }
 
     #pawnf {
         left: 502px;
         top: 213px;
         width: 40px;
-        height: 75px;
+        height: 45px;
     }
 
     #pawng {
         left: 578px;
         top: 213px;
         width: 40px;
-        height: 75px;
+        height: 45px;
     }
 
     #pawnh {
         left: 653px;
         top: 213px;
         width: 40px;
-        height: 75px;
+        height: 45px;
     }
 
 }
