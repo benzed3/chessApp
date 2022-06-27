@@ -232,7 +232,6 @@
 
     /*black rook 1*/
     #br {
-        position: absolute;
         top: 130px;
         width: 75px;
         height: 75px;
@@ -240,7 +239,6 @@
 
     /*black rook 2*/
     #br2 {
-        position: absolute;
         top: 130px;
         width: 75px;
         height: 75px;
@@ -248,7 +246,6 @@
 
     /*black knight 1*/
     #bn {
-        position: absolute;
         top: 131px;
         width: 75px;
         height: 75px;
@@ -256,7 +253,6 @@
 
     /*black knight 2*/
     #bn2 {
-        position: absolute;
         top: 131px;
         width: 75px;
         height: 75px;
@@ -264,7 +260,6 @@
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
         top: 132px;
         width: 75px;
         height: 75px;
@@ -272,7 +267,6 @@
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
         top: 132px;
         width: 75px;
         height: 75px;
@@ -280,7 +274,6 @@
 
     /*black queen*/
     #bq {
-        position: absolute;
         top: 131px;
         width: 75px;
         height: 75px;
@@ -288,7 +281,6 @@
 
     /*black king*/
     #bk {
-        position: absolute;
         top: 130px;
         width: 75px;
         height: 75px;
@@ -297,7 +289,6 @@
     /*black pawns*/
     #pawna {
         left: 126px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
@@ -305,7 +296,6 @@
 
     #pawnb {
         left: 204px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
@@ -313,7 +303,6 @@
 
     #pawnc {
         left: 279px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
@@ -321,7 +310,6 @@
 
     #pawnd {
         left: 353px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
@@ -329,7 +317,6 @@
 
     #pawne {
         left: 428px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
@@ -337,7 +324,6 @@
 
     #pawnf {
         left: 502px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
@@ -345,7 +331,6 @@
 
     #pawng {
         left: 578px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
@@ -353,7 +338,6 @@
 
     #pawnh {
         left: 653px;
-        position: absolute;
         top: 213px;
         width: 40px;
         height: 75px;
