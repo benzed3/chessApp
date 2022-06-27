@@ -688,7 +688,7 @@
         top: 103px;
         left: 275px;
         width: 42px;
-        height: 42px;
+        height: 48.19px;
     }
 
     /*black rook 2*/
@@ -696,14 +696,14 @@
         top: 103px;
         left: 707px;
         width: 42px;
-        height: 42px;
+        height: 48.19px;
     }
 
     /*black knight 1*/
     #bn {
         top: 102px;
         width: 55px;
-        height: 75px;
+        height: 49.5px;
         left: 332px;
     }
 
@@ -711,7 +711,7 @@
     #bn2 {
         top: 102px;
         width: 55px;
-        height: 75px;
+        height: 49.5px;
         left: 639px;
     }
 
@@ -719,7 +719,7 @@
     #bb {
         top: 103px;
         width: 47px;
-        height: 75px;
+        height: 48.79px;
         left: 395px;
     }
 
@@ -727,7 +727,7 @@
     #bb2 {
         top: 103px;
         width: 47px;
-        height: 75px;
+        height: 48.79px;
         left: 582px;
     }
 
@@ -737,13 +737,14 @@
         top: 102px;
         left: 465px;
         width: 31px;
+        height: 50.54px;
     }
 
     /*black king*/
     #bk {
         top: 100px;
         width: 75px;
-        height: 75px;
+        height: 55px;
         left: 505px;
     }
 
