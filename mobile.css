@@ -1246,7 +1246,6 @@
 
     /*black rook 1*/
     #br {
-        position: absolute;
         top: 82px;
         left: 302px;
         width: 25px;
@@ -1255,7 +1254,6 @@
 
     /*black rook 2*/
     #br2 {
-        position: absolute;
         top: 82px;
         left: 568px;
         width: 25px;
@@ -1264,7 +1262,6 @@
 
     /*black knight 1*/
     #bn {
-        position: absolute;
         top: 83px;
         width: 30px;
         height: 75px;
@@ -1273,7 +1270,6 @@
 
     /*black knight 2*/
     #bn2 {
-        position: absolute;
         top: 83px;
         width: 30px;
         height: 75px;
@@ -1282,7 +1278,6 @@
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
         top: 84px;
         width: 28px;
         height: 75px;
@@ -1291,7 +1286,6 @@
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
         top: 84px;
         width: 28px;
         height: 75px;
@@ -1307,7 +1301,6 @@
 
     /*black king*/
     #bk {
-        position: absolute;
         top: 81px;
         width: 23px;
         height: 75px;
@@ -1315,7 +1308,6 @@
     }
 
     #pawna {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
@@ -1323,7 +1315,6 @@
     }
 
     #pawnb {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
@@ -1331,7 +1322,6 @@
     }
 
     #pawnc {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
@@ -1339,7 +1329,6 @@
     }
 
     #pawnd {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
@@ -1347,7 +1336,6 @@
     }
 
     #pawne {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
@@ -1355,7 +1343,6 @@
     }
 
     #pawnf {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
@@ -1363,7 +1350,6 @@
     }
 
     #pawng {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
@@ -1371,7 +1357,6 @@
     }
 
     #pawnh {
-        position: absolute;
         top: 122px;
         width: 23px;
         height: 75px;
