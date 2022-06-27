@@ -461,91 +461,86 @@
     #br2 {
         top: 130px;
         width: 75px;
-        height: 75px;
     }
 
     /*black knight 2*/
     #bn2 {
         top: 131px;
         width: 75px;
-        height: 75px;
     }
 
     /*black bishop 1*/
     #bb {
         top: 132px;
         width: 75px;
-        height: 75px;
     }
 
     /*black bishop 2*/
     #bb2 {
         top: 132px;
         width: 75px;
-        height: 75px;
     }
 
     /*black queen*/
     #bq {
         top: 130px;
         width: 75px;
-        height: 75px;
     }
 
     /*black pawns*/
     #pawna {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 98px;
     }
 
     #pawnb {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 175px;
     }
 
     #pawnc {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 250px;
     }
 
     #pawnd {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 325px;
     }
 
     #pawne {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 401px;
     }
 
     #pawnf {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 476px;
     }
 
     #pawng {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 551px;
     }
 
     #pawnh {
         top: 210px;
         width: 42px;
-        height: 75px;
+        height: 47px;
         left: 628px;
     }
 
