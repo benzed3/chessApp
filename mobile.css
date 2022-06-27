@@ -556,112 +556,112 @@
     #br {
         top: 130px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black rook 2*/
     #br2 {
         top: 130px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black knight 1*/
     #bn {
         top: 127px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black knight 2*/
     #bn2 {
         top: 127px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black bishop 1*/
     #bb {
         top: 128px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black bishop 2*/
     #bb2 {
         top: 128px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black queen*/
     #bq {
         top: 126px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black king*/
     #bk {
         top: 127px;
         width: 75px;
-        height: 75px;
+        height: 55px;
     }
 
     /*black pawns*/
     #pawna {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 230px;
     }
 
     #pawnb {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 306px;
     }
 
     #pawnc {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 381px;
     }
 
     #pawnd {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 455px;
     }
 
     #pawne {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 531px;
     }
 
     #pawnf {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 605px;
     }
 
     #pawng {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 680px;
     }
 
     #pawnh {
         top: 206px;
         width: 40px;
-        height: 75px;
+        height: 45px;
         left: 757px;
     }
 
