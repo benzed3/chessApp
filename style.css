@@ -288,7 +288,22 @@ h3 {
     height: 55px;
 }
 
-/*black pawn*/
+/*white pawns*/
+#pawn1a {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnaa {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
+/*black pawns*/
 #pawn1 {
     max-width: 60%;
     max-height: 55px;
