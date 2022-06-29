@@ -83,7 +83,7 @@ h3 {
     height: 55px;
 }
 
-/*black rook 1*/
+/*black rooks*/
 #blackRook1 {
     max-width: 60%;
     max-height: 55px;
@@ -98,7 +98,50 @@ h3 {
     height: 55px;
 }
 
-/*black knight 1*/
+#blackRook2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#br2 {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 55px;
+}
+
+/*white knights*/
+#whiteKnight1 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#wk {
+    position: absolute;
+    bottom: 52px;
+    width: 75px;
+    height: 55px;
+}
+
+#whiteKnight2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#wk2 {
+    position: absolute;
+    bottom: 52px;
+    width: 75px;
+    height: 55px;
+}
+
+/*black Knights*/
 #blackKnight1 {
     max-width: 60%;
     max-height: 55px;
@@ -182,21 +225,6 @@ h3 {
 }
 
 #bn2 {
-    position: absolute;
-    top: 120px;
-    width: 75px;
-    height: 55px;
-}
-
-/*black rook 2*/
-#blackRook2 {
-    max-width: 60%;
-    max-height: 55px;
-    margin: auto;
-    display: block;
-}
-
-#br2 {
     position: absolute;
     top: 120px;
     width: 75px;
