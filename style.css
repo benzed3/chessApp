@@ -120,7 +120,7 @@ h3 {
     display: block;
 }
 
-#wk {
+#wn {
     position: absolute;
     bottom: 52px;
     width: 75px;
@@ -134,7 +134,7 @@ h3 {
     display: block;
 }
 
-#wk2 {
+#wn2 {
     position: absolute;
     bottom: 52px;
     width: 75px;
@@ -163,7 +163,7 @@ h3 {
     display: block;
 }
 
-/*black bishop 1*/
+/*black bishops*/
 #blackBishop1 {
     max-width: 60%;
     max-height: 55px;
@@ -172,6 +172,20 @@ h3 {
 }
 
 #bb {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 55px;
+}
+
+#blackBishop2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#bb2 {
     position: absolute;
     top: 120px;
     width: 75px;
@@ -202,21 +216,6 @@ h3 {
 }
 
 #bk {
-    position: absolute;
-    top: 120px;
-    width: 75px;
-    height: 55px;
-}
-
-/*black bishop 2*/
-#blackBishop2 {
-    max-width: 60%;
-    max-height: 55px;
-    margin: auto;
-    display: block;
-}
-
-#bb2 {
     position: absolute;
     top: 120px;
     width: 75px;
