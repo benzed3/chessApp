@@ -163,6 +163,42 @@ h3 {
     display: block;
 }
 
+#bn2 {
+    position: absolute;
+    top: 120px;
+    width: 75px;
+    height: 55px;
+}
+
+/*white bishops*/
+#whiteBishop1 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#wb {
+    position: absolute;
+    bottom: 52px;
+    width: 75px;
+    height: 55px;
+}
+
+#whiteBishop2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#wb2 {
+    position: absolute;
+    bottom: 52px;
+    width: 75px;
+    height: 55px;
+}
+
 /*black bishops*/
 #blackBishop1 {
     max-width: 60%;
@@ -192,6 +228,21 @@ h3 {
     height: 55px;
 }
 
+/*white queen*/
+#whiteQueen {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#wq {
+    position: absolute;
+    bottom: 52px;
+    width: 75px;
+    height: 55px;
+}
+
 /*black queen*/
 #blackQueen {
     max-width: 60%;
@@ -207,6 +258,21 @@ h3 {
     height: 55px;
 }
 
+/*white king*/
+#whiteKing {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#wk {
+    position: absolute;
+    bottom: 52px;
+    width: 75px;
+    height: 55px;
+}
+
 /*black king*/
 #blackKing {
     max-width: 60%;
@@ -216,13 +282,6 @@ h3 {
 }
 
 #bk {
-    position: absolute;
-    top: 120px;
-    width: 75px;
-    height: 55px;
-}
-
-#bn2 {
     position: absolute;
     top: 120px;
     width: 75px;
