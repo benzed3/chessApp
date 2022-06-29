@@ -156,6 +156,13 @@ h3 {
     height: 55px;
 }
 
+#blackKnight2 {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
 /*black bishop 1*/
 #blackBishop1 {
     max-width: 60%;
@@ -214,14 +221,6 @@ h3 {
     top: 120px;
     width: 75px;
     height: 55px;
-}
-
-/*black knight 2*/
-#blackKnight2 {
-    max-width: 60%;
-    max-height: 55px;
-    margin: auto;
-    display: block;
 }
 
 #bn2 {
