@@ -300,14 +300,15 @@ function dragElement(elmnt) {
     }
 }
 
-//click and drag for black bishop 1//
-dragElement(document.getElementById("bb"));
+
+//click and drag for white bishop 1//
+dragElement(document.getElementById("wb"));
 
 function dragElement(elmnt) {
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
-    if (document.getElementById(elmnt.id + "blackBishop1")) {
+    if (document.getElementById(elmnt.id + "whiteBishop1")) {
 
-        document.getElementById(elmnt.id + "blackBishop1").onmousedown = dragMouseDown;
+        document.getElementById(elmnt.id + "whiteBishop1").onmousedown = dragMouseDown;
     } else {
         elmnt.onmousedown = dragMouseDown;
     }
