@@ -31,10 +31,22 @@
         height: 55px;
     }
 
+    /*white knight 1*/
+    #wn {
+        bottom: 643px;
+        height: 55px;
+    }
+
     /*black knight 1*/
     #bn {
         top: 144px;
         width: 75px;
+        height: 55px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 643px;
         height: 55px;
     }
 
@@ -45,10 +57,22 @@
         height: 55px;
     }
 
+    /*white bishop 1*/
+    #wb {
+        bottom: 643px;
+        height: 55px;
+    }
+
     /*black bishop 1*/
     #bb {
         top: 145px;
         width: 75px;
+        height: 55px;
+    }
+
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 643px;
         height: 55px;
     }
 
