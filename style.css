@@ -303,6 +303,104 @@ h3 {
     height: 75px;
 }
 
+#pawn2b {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnbb {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn3c {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawncc {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn4d {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawndd {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn5e {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnee {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn6f {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnff {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn7g {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawngg {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
+#pawn8h {
+    max-width: 60%;
+    max-height: 55px;
+    margin: auto;
+    display: block;
+}
+
+#pawnhh {
+    position: absolute;
+    bottom: 108px;
+    width: 75px;
+    height: 75px;
+}
+
 /*black pawns*/
 #pawn1 {
     max-width: 60%;
