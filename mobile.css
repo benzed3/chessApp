@@ -61,6 +61,11 @@
         height: 55px;
     }
 
+    /*white pawns*/
+    #pawnaa {
+        bottom: 700px;
+    }
+
     /*black pawns*/
     #pawna {
         top: 218px;
