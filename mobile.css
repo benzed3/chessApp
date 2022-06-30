@@ -5,6 +5,12 @@
         padding: 30px 0 30px 0;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 643px;
+        height: 55px;
+    }
+
     /*black rook 1*/
     #br {
         top: 143px;
@@ -63,11 +69,43 @@
 
     /*white pawns*/
     #pawnaa {
-        bottom: 700px;
+        bottom: 720px;
+        height: 55px;
     }
 
     #pawnbb {
-        bottom: 700px;
+        bottom: 720px;
+        height: 55px;
+    }
+
+    #pawncc {
+        bottom: 720px;
+        height: 55px;
+    }
+
+    #pawndd {
+        bottom: 720px;
+        height: 55px;
+    }
+
+    #pawnee {
+        bottom: 720px;
+        height: 55px;
+    }
+
+    #pawnff {
+        bottom: 720px;
+        height: 55px;
+    }
+
+    #pawngg {
+        bottom: 720px;
+        height: 55px;
+    }
+
+    #pawnhh {
+        bottom: 720px;
+        height: 55px;
     }
 
     /*black pawns*/
