@@ -596,11 +596,24 @@
         padding: 30px 0 30px 0;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 88px;
+    }
+
     /*black rook 1*/
     #br {
         top: 150px;
-        width: 75px;
-        height: 55px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 88px;
+    }
+
+    /*white knight 1*/
+    #wn {
+        bottom: 88px;
     }
 
     /*black knight 1*/
@@ -608,6 +621,31 @@
         top: 150px;
         width: 75px;
         height: 55px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 88px;
+    }
+
+    /*white bishop 1*/
+    #wb {
+        bottom: 88px;
+    }
+
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 88px;
+    }
+
+    /*white queen*/
+    #wq {
+        bottom: 88px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 88px;
     }
 
     /*black king*/
