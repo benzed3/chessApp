@@ -83,10 +83,22 @@
         height: 55px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 643px;
+        height: 55px;
+    }
+
     /*black queen*/
     #bq {
         top: 142px;
         width: 75px;
+        height: 55px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 643px;
         height: 55px;
     }
 
