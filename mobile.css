@@ -1235,16 +1235,18 @@
 
     /*white rook 1*/
     #wr {
-        bottom: 12px;
+        bottom: 18px;
         width: 45px;
         left: 275px;
+        height: 48px;
     }
 
     /*white rook 2*/
     #wr2 {
-        bottom: 12px;
+        bottom: 18px;
         width: 45px;
         left: 705px;
+        height: 48px;
     }
 
     /*black rook 1*/
@@ -1261,6 +1263,22 @@
         left: 707px;
         width: 42px;
         height: 48.19px;
+    }
+
+    /*white knight 1*/
+    #wn {
+        bottom: 18px;
+        width: 40px;
+        left: 339px;
+        height: 45.9px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 18px;
+        width: 40px;
+        left: 647px;
+        height: 45.9px;
     }
 
     /*black knight 1*/
