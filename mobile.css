@@ -1085,6 +1085,39 @@
         height: 55px;
     }
 
+    /*white pawns*/
+    #pawnaa {
+        bottom: 137px;
+    }
+
+    #pawnbb {
+        bottom: 137px;
+    }
+
+    #pawncc {
+        bottom: 137px;
+    }
+
+    #pawndd {
+        bottom: 137px;
+    }
+
+    #pawnee {
+        bottom: 137px;
+    }
+
+    #pawnff {
+        bottom: 137px;
+    }
+
+    #pawngg {
+        bottom: 137px;
+    }
+
+    #pawnhh {
+        bottom: 137px;
+    }
+
     /*black pawns*/
     #pawna {
         top: 206px;
