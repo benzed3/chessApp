@@ -704,6 +704,23 @@
         top: 150px;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 68px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 68px;
+    }
+
+    /*black rook 2*/
+    #br2 {
+        top: 151px;
+        width: 75px;
+        height: 55px;
+    }
+
     /*black bishop 2*/
     #bb2 {
         top: 152px;
@@ -713,13 +730,6 @@
 
     /*black knight 2*/
     #bn2 {
-        top: 151px;
-        width: 75px;
-        height: 55px;
-    }
-
-    /*black rook 2*/
-    #br2 {
         top: 151px;
         width: 75px;
         height: 55px;
