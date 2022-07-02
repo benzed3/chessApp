@@ -738,6 +738,16 @@
         height: 55px;
     }
 
+    /*white bishop 1*/
+    #wb {
+        bottom: 68px;
+    }
+
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 68px;
+    }
+
     /*black bishop 2*/
     #bb2 {
         top: 152px;
