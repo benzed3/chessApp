@@ -1053,6 +1053,16 @@
         height: 55px;
     }
 
+    /*white knight*/
+    #wn {
+        bottom: 60px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 60px;
+    }
+
     /*black knight 1*/
     #bn {
         top: 127px;
