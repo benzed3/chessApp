@@ -893,6 +893,16 @@
         width: 75px;
     }
 
+    /*white bishop 1*/
+    #wb {
+        bottom: 313px;
+    }
+
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 313px;
+    }
+
     /*black bishop 1*/
     #bb {
         top: 132px;
