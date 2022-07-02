@@ -721,6 +721,16 @@
         height: 55px;
     }
 
+    /*white knight 1*/
+    #wn {
+        bottom: 68px;
+    }
+
+    /*white rook 2*/
+    #wn2 {
+        bottom: 68px;
+    }
+
     /*black bishop 2*/
     #bb2 {
         top: 152px;
