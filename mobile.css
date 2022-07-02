@@ -877,6 +877,16 @@
         width: 75px;
     }
 
+    /*white knight 1*/
+    #wn {
+        bottom: 313px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 313px;
+    }
+
     /*black knight 2*/
     #bn2 {
         top: 131px;
