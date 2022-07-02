@@ -915,10 +915,20 @@
         width: 75px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 313px;
+    }
+
     /*black queen*/
     #bq {
         top: 130px;
         width: 75px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 313px;
     }
 
     /*black pawns*/
