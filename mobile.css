@@ -1029,6 +1029,16 @@
         padding: 20px 0 20px 0;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 60px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 60px;
+    }
+
     /*black rook 1*/
     #br {
         top: 130px;
