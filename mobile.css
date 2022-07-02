@@ -731,16 +731,16 @@
         bottom: 68px;
     }
 
-    /*black bishop 2*/
-    #bb2 {
-        top: 152px;
+    /*black knight 2*/
+    #bn2 {
+        top: 151px;
         width: 75px;
         height: 55px;
     }
 
-    /*black knight 2*/
-    #bn2 {
-        top: 151px;
+    /*black bishop 2*/
+    #bb2 {
+        top: 152px;
         width: 75px;
         height: 55px;
     }
