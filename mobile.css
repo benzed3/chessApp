@@ -861,6 +861,16 @@
 /*styling for 768x1024 screens*/
 @media screen and (max-width: 768px) and (max-height: 1024px) {
 
+    /*white rook 1*/
+    #wr {
+        bottom: 313px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 313px;
+    }
+
     /*black rook 2*/
     #br2 {
         top: 130px;
