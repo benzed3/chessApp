@@ -1233,6 +1233,20 @@
         height: 61.25px;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 12px;
+        width: 45px;
+        left: 275px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 12px;
+        width: 45px;
+        left: 705px;
+    }
+
     /*black rook 1*/
     #br {
         top: 103px;
