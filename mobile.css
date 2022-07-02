@@ -755,6 +755,16 @@
         height: 55px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 68px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 68px;
+    }
+
     /*pawns*/
     #pawna {
         top: 230px;
