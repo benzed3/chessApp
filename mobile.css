@@ -1327,6 +1327,12 @@
         left: 582px;
     }
 
+    /*black queen*/
+    #wq {
+        bottom: 14px;
+        width: 41px;
+        left: 460px;
+    }
 
     /*black queen*/
     #bq {
@@ -1334,6 +1340,12 @@
         left: 465px;
         width: 31px;
         height: 50.54px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 15px;
+        left: 507px;
     }
 
     /*black king*/
