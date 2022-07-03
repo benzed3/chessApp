@@ -1485,6 +1485,22 @@
         width: 12.5%;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 121px;
+        width: 49px;
+        left: 26px;
+        height: 52.1px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 121px;
+        width: 49px;
+        left: 464px;
+        height: 52.1px;
+    }
+
     /*black rook 1*/
     #br {
         left: 30px;
