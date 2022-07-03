@@ -1581,12 +1581,26 @@
         left: 340px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 119px;
+        left: 216px;
+        width: 43px;
+        height: 53.51px;
+    }
+
     /*black queen*/
     #bq {
         top: 110px;
         width: 30px;
         height: 48.91;
         left: 223px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 118px;
+        left: 267px;
     }
 
     /*black king*/
