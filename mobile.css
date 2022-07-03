@@ -1743,6 +1743,22 @@
         width: 12.5%;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 29px;
+        width: 43px;
+        left: 153px;
+        height: 45.73px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 29px;
+        width: 43px;
+        left: 525px;
+        height: 45.73px;
+    }
+
     /*black rook 1*/
     #br {
         top: 95px;
@@ -1757,6 +1773,22 @@
         left: 528px;
         width: 36px;
         height: 41.3px;
+    }
+
+    /*white knight 1*/
+    #wn {
+        bottom: 27px;
+        width: 40px;
+        left: 207px;
+        height: 45.9px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 27px;
+        width: 40px;
+        left: 474px;
+        height: 45.9px;
     }
 
     /*black knight 1*/
