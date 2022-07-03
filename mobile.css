@@ -2100,6 +2100,14 @@
         left: 260px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 422px;
+        width: 34px;
+        height: 42.31px;
+        left: 166px;
+    }
+
     /*black queen*/
     #bq {
         top: 107px;
