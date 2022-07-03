@@ -2036,6 +2036,22 @@
         height: 32px;
     }
 
+    /*white knight 1*/
+    #wn {
+        height: 40.16px;
+        bottom: 422px;
+        width: 35px;
+        left: 73px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        height: 40.16px;
+        bottom: 422px;
+        width: 35px;
+        left: 307px;
+    }
+
     /*black knight 1*/
     #bn {
         top: 108px;
