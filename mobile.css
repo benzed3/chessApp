@@ -2004,6 +2004,22 @@
         width: 12.5%;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 421px;
+        width: 41px;
+        left: 24px;
+        height: 43.6px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 421px;
+        width: 41px;
+        left: 351px;
+        height: 43.6px;
+    }
+
     /*black rook 1*/
     #br {
         top: 106px;
