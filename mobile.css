@@ -2068,6 +2068,64 @@
         left: 214px;
     }
 
+    /*white pawns*/
+    #pawnaa {
+        bottom: 472px;
+        width: 32px;
+        left: 26px;
+        height: 37.41px;
+    }
+
+    #pawnbb {
+        bottom: 472px;
+        width: 32px;
+        left: 74px;
+        height: 37.41px;
+    }
+
+    #pawncc {
+        bottom: 472px;
+        width: 32px;
+        left: 120px;
+        height: 37.41px;
+    }
+
+    #pawndd {
+        bottom: 472px;
+        width: 32px;
+        left: 167px;
+        height: 37.41px;
+    }
+
+    #pawnee {
+        bottom: 472px;
+        width: 32px;
+        left: 214px;
+        height: 37.41px;
+    }
+
+    #pawnff {
+        bottom: 472px;
+        width: 32px;
+        left: 261px;
+        height: 37.41px;
+    }
+
+    #pawngg {
+        bottom: 472px;
+        width: 32px;
+        left: 308px;
+        height: 37.41px;
+    }
+
+    #pawnhh {
+        bottom: 472px;
+        width: 32px;
+        left: 355px;
+        height: 37.41px;
+    }
+
+    /*black pawns*/
     #pawna {
         top: 157px;
         width: 29px;
