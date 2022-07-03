@@ -1807,6 +1807,22 @@
         left: 469px;
     }
 
+    /*white bishop 1*/
+    #wb {
+        bottom: 28px;
+        width: 36px;
+        left: 262px;
+        height: 44.56px;
+    }
+
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 28px;
+        width: 36px;
+        left: 422px;
+        height: 44.56px;
+    }
+
     /*black bishop*/
     #bb {
         top: 96px;
