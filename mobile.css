@@ -1839,12 +1839,28 @@
         left: 420px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 28px;
+        width: 38px;
+        left: 316px;
+        height: 47.29px;
+    }
+
     /*black queen*/
     #bq {
         top: 94px;
         left: 320px;
         width: 27px;
         height: 45px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 28px;
+        left: 372px;
+        width: 29px;
+        height: 48.09px;
     }
 
     /*black king*/
