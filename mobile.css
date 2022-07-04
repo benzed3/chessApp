@@ -2368,6 +2368,14 @@
         left: 490px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 38px;
+        width: 27px;
+        left: 415px;
+        height: 33.6px;
+    }
+
     /*black queen*/
     #bq {
         top: 83px;
