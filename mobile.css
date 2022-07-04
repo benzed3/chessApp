@@ -2650,6 +2650,14 @@
         left: 171px;
     }
 
+    /*white king*/
+    #wk {
+        bottom: 438px;
+        width: 29px;
+        height: 48.09px;
+        left: 215px;
+    }
+
     /*black king*/
     #bk {
         position: absolute;
