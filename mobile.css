@@ -2383,6 +2383,14 @@
         width: 18px;
     }
 
+    /*white king*/
+    #wk {
+        bottom: 35px;
+        left: 456px;
+        width: 23px;
+        height: 38.14px;
+    }
+
     /*black king*/
     #bk {
         top: 81px;
