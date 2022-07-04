@@ -2816,6 +2816,22 @@
         width: 12.5%;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 28px;
+        width: 32px;
+        left: 310px;
+        height: 34.03px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 28px;
+        width: 32px;
+        left: 573px;
+        height: 34.03px;
+    }
+
     /*black rook 1*/
     #br {
         position: absolute;
@@ -2832,6 +2848,22 @@
         left: 577px;
         width: 25px;
         height: 25px;
+    }
+
+    /*white knight 1*/
+    #wn {
+        bottom: 30px;
+        width: 27px;
+        left: 348px;
+        height: 30.98px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 30px;
+        width: 27px;
+        left: 538px;
+        height: 30.98px;
     }
 
     /*black knight 1*/
@@ -2852,6 +2884,22 @@
         left: 536px;
     }
 
+    /*white bishop 1*/
+    #wb {
+        bottom: 30px;
+        width: 26px;
+        left: 389px;
+        height: 32.19px;
+    }
+
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 30px;
+        width: 26px;
+        left: 501px;
+        height: 32.19px;
+    }
+
     /*black bishop*/
     #bb {
         position: absolute;
@@ -2870,11 +2918,27 @@
         left: 500px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 30px;
+        width: 27px;
+        left: 425px;
+        height: 33.6px;
+    }
+
     /*black queen*/
     #bq {
         top: 89px;
         left: 430px;
         width: 18px;
+    }
+
+    /*white king*/
+    #wk {
+        bottom: 28px;
+        left: 465px;
+        width: 23px;
+        height: 36.48px;
     }
 
     /*black king*/
