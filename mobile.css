@@ -3690,6 +3690,39 @@
         left: 345px;
     }
 
+    /*black pawns*/
+    #pawna {
+        height: 30px;
+    }
+
+    #pawnb {
+        height: 30px;
+    }
+
+    #pawnc {
+        height: 30px;
+    }
+
+    #pawnd {
+        height: 30px;
+    }
+
+    #pawne {
+        height: 30px;
+    }
+
+    #pawnf {
+        height: 30px;
+    }
+
+    #pawng {
+        height: 30px;
+    }
+
+    #pawnh {
+        height: 30px;
+    }
+
 }
 
 @media screen and (max-height: 391px) and (max-width: 845px) {
