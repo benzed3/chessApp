@@ -5190,6 +5190,13 @@
         left: 175px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 345px;
+        left: 115px;
+        width: 20px;
+        height: 24.89px;
+    }
 
     /*black queen*/
     #bq {
