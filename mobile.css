@@ -5088,6 +5088,22 @@
         height: 31.25px;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 345px;
+        left: 19px;
+        width: 23px;
+        height: 24.45px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 345px;
+        left: 238px;
+        width: 23px;
+        height: 24.45px;
+    }
+
     /*black rook 1*/
     #br {
         position: absolute;
