@@ -5122,6 +5122,22 @@
         height: 20px;
     }
 
+    /*white knight 1*/
+    #wn {
+        bottom: 347px;
+        left: 54px;
+        width: 17px;
+        height: 19.5px;
+    }
+
+    /*white knight 2*/
+    #wn2 {
+        bottom: 347px;
+        left: 210px;
+        width: 17px;
+        height: 19.5px;
+    }
+
     /*black knight 1*/
     #bn {
         position: absolute;
