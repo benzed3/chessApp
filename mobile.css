@@ -5207,6 +5207,14 @@
         left: 116px;
     }
 
+    /*white king*/
+    #wk {
+        bottom: 343px;
+        left: 148px;
+        width: 17.1px;
+        height: 28.33px;
+    }
+
     /*black king*/
     #bk {
         position: absolute;
