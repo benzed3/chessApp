@@ -908,3 +908,26 @@ function dragElement(elmnt) {
         document.onmousemove = null;
     }
 }
+
+//CLICK AND DRAG//
+
+//white rook//
+var whiteRookA = document.getElementById("wr");
+
+whiteRookA.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whiteRookA.style.left = touchLocation.pageX + "px";
+    whiteRookA.style.top = touchLocation.pageY + "px";
+
+})
+
+whiteRookA.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whiteRookA.style.left);
+    var y = parseInt(whiteRookA.style.top);
+
+})
