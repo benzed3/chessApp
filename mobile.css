@@ -5461,11 +5461,27 @@
         left: 355px;
     }
 
+    /*white queen*/
+    #wq {
+        bottom: 15px;
+        left: 306px;
+        width: 17px;
+        height: 21.15px;
+    }
+
     /*black queen */
     #bq {
         top: 65px;
         left: 308px;
         width: 12px;
+    }
+
+    /*white queen*/
+    #wk {
+        bottom: 14px;
+        left: 333px;
+        width: 13.5px;
+        height: 22.38px;
     }
 
     /*black king*/
