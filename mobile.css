@@ -5359,6 +5359,22 @@
         height: 25.625px;
     }
 
+    /*white rook 1*/
+    #wr {
+        bottom: 16px;
+        left: 228px;
+        width: 18px;
+        height: 19.14px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 16px;
+        left: 408px;
+        width: 18px;
+        height: 19.14px;
+    }
+
     /*black rook 1*/
     #br {
         position: absolute;
