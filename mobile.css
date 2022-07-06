@@ -5427,6 +5427,22 @@
         left: 381px;
     }
 
+    /*white bishop 1*/
+    #wb {
+        bottom: 14px;
+        left: 279px;
+        width: 18px;
+        height: 22.28px;
+    }
+
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 14px;
+        left: 357px;
+        width: 18px;
+        height: 22.28px;
+    }
+
     /*black bishop 1*/
     #bb {
         position: absolute;
