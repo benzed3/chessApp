@@ -1120,3 +1120,45 @@ blackRookB.addEventListener("touchend", function (ev) {
     var y = parseInt(blackRookB.style.top);
 
 })
+
+//black knight 1//
+var blackKnightA = document.getElementById("bn");
+
+blackKnightA.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackKnightA.style.left = touchLocation.pageX + "px";
+    blackKnightA.style.top = touchLocation.pageY + "px";
+
+})
+
+blackKnightA.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackKnightA.style.left);
+    var y = parseInt(blackKnightA.style.top);
+
+})
+
+//black knight 2//
+var blackKnightB = document.getElementById("bn2");
+
+blackKnightB.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackKnightB.style.left = touchLocation.pageX + "px";
+    blackKnightB.style.top = touchLocation.pageY + "px";
+
+})
+
+blackKnightB.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackKnightB.style.left);
+    var y = parseInt(blackKnightB.style.top);
+
+})
