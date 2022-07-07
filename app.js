@@ -1099,3 +1099,24 @@ blackRookA.addEventListener("touchend", function (ev) {
     var y = parseInt(blackRookA.style.top);
 
 })
+
+//black rook 2//
+var blackRookB = document.getElementById("br2");
+
+blackRookB.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackRookB.style.left = touchLocation.pageX + "px";
+    blackRookB.style.top = touchLocation.pageY + "px";
+
+})
+
+blackRookB.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackRookB.style.left);
+    var y = parseInt(blackRookB.style.top);
+
+})
