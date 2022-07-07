@@ -1162,3 +1162,45 @@ blackKnightB.addEventListener("touchend", function (ev) {
     var y = parseInt(blackKnightB.style.top);
 
 })
+
+//black bishop 1//
+var blackBishopA = document.getElementById("bb");
+
+blackBishopA.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackBishopA.style.left = touchLocation.pageX + "px";
+    blackBishopA.style.top = touchLocation.pageY + "px";
+
+})
+
+blackBishopA.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackBishopA.style.left);
+    var y = parseInt(blackBishopA.style.top);
+
+})
+
+//black bishop 2//
+var blackBishopB = document.getElementById("bb2");
+
+blackBishopB.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackBishopB.style.left = touchLocation.pageX + "px";
+    blackBishopB.style.top = touchLocation.pageY + "px";
+
+})
+
+blackBishopB.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackBishopB.style.left);
+    var y = parseInt(blackBishopB.style.top);
+
+})
