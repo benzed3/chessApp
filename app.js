@@ -1225,3 +1225,24 @@ blackQueen.addEventListener("touchend", function (ev) {
     var y = parseInt(blackQueen.style.top);
 
 })
+
+//black king//
+var blackKing = document.getElementById("bk");
+
+blackKing.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackKing.style.left = touchLocation.pageX + "px";
+    blackKing.style.top = touchLocation.pageY + "px";
+
+})
+
+blackKing.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackKing.style.left);
+    var y = parseInt(blackKing.style.top);
+
+})
