@@ -994,3 +994,24 @@ whiteKnightB.addEventListener("touchend", function (ev) {
     var y = parseInt(whiteKnightB.style.top);
 
 })
+
+//white bishop 2//
+var whiteBishopA = document.getElementById("wb");
+
+whiteBishopA.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whiteBishopA.style.left = touchLocation.pageX + "px";
+    whiteBishopA.style.top = touchLocation.pageY + "px";
+
+})
+
+whiteBishopA.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whiteBishopA.style.left);
+    var y = parseInt(whiteBishopA.style.top);
+
+})
