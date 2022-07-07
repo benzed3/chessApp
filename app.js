@@ -1246,3 +1246,165 @@ blackKing.addEventListener("touchend", function (ev) {
     var y = parseInt(blackKing.style.top);
 
 })
+
+//black pawns//
+////
+var blackPawnA = document.getElementById("pawna");
+
+blackPawnA.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnA.style.left = touchLocation.pageX + "px";
+    blackPawnA.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnA.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnA.style.left);
+    var y = parseInt(blackPawnA.style.top);
+
+})
+////
+var blackPawnB = document.getElementById("pawnb");
+
+blackPawnB.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnB.style.left = touchLocation.pageX + "px";
+    blackPawnB.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnB.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnB.style.left);
+    var y = parseInt(blackPawnB.style.top);
+
+})
+////
+var blackPawnC = document.getElementById("pawnc");
+
+blackPawnC.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnC.style.left = touchLocation.pageX + "px";
+    blackPawnC.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnC.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnC.style.left);
+    var y = parseInt(blackPawnC.style.top);
+
+})
+////
+var blackPawnD = document.getElementById("pawnd");
+
+blackPawnD.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnD.style.left = touchLocation.pageX + "px";
+    blackPawnD.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnD.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnD.style.left);
+    var y = parseInt(blackPawnD.style.top);
+
+})
+////
+var blackPawnE = document.getElementById("pawne");
+
+blackPawnE.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnE.style.left = touchLocation.pageX + "px";
+    blackPawnE.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnE.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnE.style.left);
+    var y = parseInt(blackPawnE.style.top);
+
+})
+////
+var blackPawnF = document.getElementById("pawnf");
+
+blackPawnF.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnF.style.left = touchLocation.pageX + "px";
+    blackPawnF.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnF.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnF.style.left);
+    var y = parseInt(blackPawnF.style.top);
+
+})
+////
+var blackPawnG = document.getElementById("pawng");
+
+blackPawnG.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnG.style.left = touchLocation.pageX + "px";
+    blackPawnG.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnG.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnG.style.left);
+    var y = parseInt(blackPawnG.style.top);
+
+})
+////
+var blackPawnH = document.getElementById("pawnh");
+
+blackPawnH.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackPawnH.style.left = touchLocation.pageX + "px";
+    blackPawnH.style.top = touchLocation.pageY + "px";
+
+})
+
+blackPawnH.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackPawnH.style.left);
+    var y = parseInt(blackPawnH.style.top);
+
+})
