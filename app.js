@@ -1079,6 +1079,168 @@ whiteKing.addEventListener("touchend", function (ev) {
 
 })
 
+//white pawns//
+var whitePawnA = document.getElementById("pawnaa");
+
+whitePawnA.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnA.style.left = touchLocation.pageX + "px";
+    whitePawnA.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnA.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnA.style.left);
+    var y = parseInt(whitePawnA.style.top);
+
+})
+////
+var whitePawnB = document.getElementById("pawnbb");
+
+whitePawnB.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnB.style.left = touchLocation.pageX + "px";
+    whitePawnB.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnB.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnB.style.left);
+    var y = parseInt(whitePawnB.style.top);
+
+})
+////
+var whitePawnC = document.getElementById("pawncc");
+
+whitePawnC.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnC.style.left = touchLocation.pageX + "px";
+    whitePawnC.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnC.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnC.style.left);
+    var y = parseInt(whitePawnC.style.top);
+
+})
+////
+var whitePawnD = document.getElementById("pawndd");
+
+whitePawnD.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnD.style.left = touchLocation.pageX + "px";
+    whitePawnD.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnD.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnD.style.left);
+    var y = parseInt(whitePawnD.style.top);
+
+})
+////
+var whitePawnE = document.getElementById("pawnee");
+
+whitePawnE.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnE.style.left = touchLocation.pageX + "px";
+    whitePawnE.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnE.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnE.style.left);
+    var y = parseInt(whitePawnE.style.top);
+
+})
+////
+var whitePawnF = document.getElementById("pawnff");
+
+whitePawnF.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnF.style.left = touchLocation.pageX + "px";
+    whitePawnF.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnF.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnF.style.left);
+    var y = parseInt(whitePawnF.style.top);
+
+})
+////
+var whitePawnG = document.getElementById("pawngg");
+
+whitePawnG.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnG.style.left = touchLocation.pageX + "px";
+    whitePawnG.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnG.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnG.style.left);
+    var y = parseInt(whitePawnG.style.top);
+
+})
+////
+var whitePawnH = document.getElementById("pawnhh");
+
+whitePawnH.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whitePawnH.style.left = touchLocation.pageX + "px";
+    whitePawnH.style.top = touchLocation.pageY + "px";
+
+})
+
+whitePawnH.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whitePawnH.style.left);
+    var y = parseInt(whitePawnH.style.top);
+
+})
+////
+
 //black rook 1//
 var blackRookA = document.getElementById("br");
 
