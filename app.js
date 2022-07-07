@@ -909,7 +909,7 @@ function dragElement(elmnt) {
     }
 }
 
-//CLICK AND DRAG//
+//TOUCH AND DRAG//
 
 //white rook//
 var whiteRookA = document.getElementById("wr");
@@ -1034,5 +1034,26 @@ whiteBishopB.addEventListener("touchend", function (ev) {
 
     var x = parseInt(whiteBishopB.style.left);
     var y = parseInt(whiteBishopB.style.top);
+
+})
+
+//white queen//
+var whiteQueen = document.getElementById("wq");
+
+whiteQueen.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whiteQueen.style.left = touchLocation.pageX + "px";
+    whiteQueen.style.top = touchLocation.pageY + "px";
+
+})
+
+whiteQueen.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whiteQueen.style.left);
+    var y = parseInt(whiteQueen.style.top);
 
 })
