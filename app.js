@@ -952,3 +952,24 @@ whiteRookB.addEventListener("touchend", function (ev) {
     var y = parseInt(whiteRookB.style.top);
 
 })
+
+//white knight 1//
+var whiteKnightA = document.getElementById("wn");
+
+whiteKnightA.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    whiteKnightA.style.left = touchLocation.pageX + "px";
+    whiteKnightA.style.top = touchLocation.pageY + "px";
+
+})
+
+whiteKnightA.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(whiteKnightA.style.left);
+    var y = parseInt(whiteKnightA.style.top);
+
+})
