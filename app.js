@@ -1204,3 +1204,24 @@ blackBishopB.addEventListener("touchend", function (ev) {
     var y = parseInt(blackBishopB.style.top);
 
 })
+
+//black queen//
+var blackQueen = document.getElementById("bq");
+
+blackQueen.addEventListener("touchmove", function (ev) {
+
+    ev.preventDefault();
+
+    var touchLocation = ev.targetTouches[0];
+
+    blackQueen.style.left = touchLocation.pageX + "px";
+    blackQueen.style.top = touchLocation.pageY + "px";
+
+})
+
+blackQueen.addEventListener("touchend", function (ev) {
+
+    var x = parseInt(blackQueen.style.left);
+    var y = parseInt(blackQueen.style.top);
+
+})
