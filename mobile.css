@@ -16,9 +16,13 @@
     }
 
     /*white rook 2*/
+    #whiteRook2 {
+        max-height: 63px;
+    }
+
     #wr2 {
-        bottom: 643px;
-        height: 55px;
+        bottom: 639px;
+        height: 63px;
     }
 
     /*black rook 1*/
@@ -76,10 +80,14 @@
     }
 
     /*black bishop 1*/
+    #blackBishop1 {
+        max-height: 57px;
+    }
+
     #bb {
         top: 145px;
         width: 75px;
-        height: 55px;
+        height: 57px;
     }
 
     /*white bishop 2*/
