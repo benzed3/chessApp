@@ -97,10 +97,14 @@
     }
 
     /*black bishop 2*/
+    #blackBishop2 {
+        max-height: 57px;
+    }
+
     #bb2 {
         top: 145px;
         width: 75px;
-        height: 55px;
+        height: 57px;
     }
 
     /*white queen*/
