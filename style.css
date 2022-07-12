@@ -56,8 +56,8 @@ h3 {
 
 /*white rooks*/
 #whiteRook1 {
-    width: 60%;
-    height: 55px;
+    max-width: 60%;
+    max-height: 55px;
     margin: auto;
     display: block;
 }
@@ -70,8 +70,8 @@ h3 {
 }
 
 #whiteRook2 {
-    width: 60%;
-    height: 55px;
+    max-width: 60%;
+    max-height: 55px;
     margin: auto;
     display: block;
 }
@@ -85,8 +85,8 @@ h3 {
 
 /*black rooks*/
 #blackRook1 {
-    width: 45%;
-    height: 55px;
+    max-width: 60%;
+    max-height: 55px;
     margin: auto;
     display: block;
 }
@@ -99,8 +99,8 @@ h3 {
 }
 
 #blackRook2 {
-    width: 45%;
-    height: 55px;
+    max-width: 60%;
+    max-height: 55px;
     margin: auto;
     display: block;
 }
