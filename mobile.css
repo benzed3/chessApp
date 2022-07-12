@@ -24,9 +24,16 @@
         height: 55px;
     }
 
+    /*black rook 1*/
+    #br {
+        top: 146px;
+        width: 75px;
+        height: 55px;
+    }
+
     /*black rook 2*/
     #br2 {
-        top: 143px;
+        top: 146px;
         width: 75px;
         height: 55px;
     }
