@@ -121,9 +121,13 @@
     }
 
     /*white king*/
+    #whiteKing {
+        max-height: 67.5px;
+    }
+
     #wk {
         bottom: 643px;
-        height: 55px;
+        height: 67.5px;
     }
 
     /*black king*/
