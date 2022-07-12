@@ -134,44 +134,76 @@
     }
 
     /*white pawns*/
+    #pawn1a {
+        max-height: 53px;
+    }
+
     #pawnaa {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
+    }
+
+    #pawn2b {
+        max-height: 53px;
     }
 
     #pawnbb {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
+    }
+
+    #pawn3c {
+        max-height: 53px;
     }
 
     #pawncc {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
+    }
+
+    #pawn4d {
+        max-height: 53px;
     }
 
     #pawndd {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
+    }
+
+    #pawn5e {
+        max-height: 53px;
     }
 
     #pawnee {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
+    }
+
+    #pawn6f {
+        max-height: 53px;
     }
 
     #pawnff {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
+    }
+
+    #pawn7g {
+        max-height: 53px;
     }
 
     #pawngg {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
+    }
+
+    #pawn8h {
+        max-height: 53px;
     }
 
     #pawnhh {
         bottom: 720px;
-        height: 55px;
+        height: 53px;
     }
 
     /*black pawns*/
