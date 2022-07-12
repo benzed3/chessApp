@@ -70,8 +70,8 @@ h3 {
 }
 
 #whiteRook2 {
-    max-width: 60%;
-    max-height: 55px;
+    width: 60%;
+    height: 55px;
     margin: auto;
     display: block;
 }
