@@ -57,7 +57,7 @@ h3 {
 /*white rooks*/
 #whiteRook1 {
     max-width: 60%;
-    max-height: 55px;
+    max-height: 57px;
     margin: auto;
     display: block;
 }
@@ -78,7 +78,7 @@ h3 {
 
 #wr2 {
     position: absolute;
-    bottom: 52px;
+    bottom: 57px;
     width: 75px;
     height: 55px;
 }
