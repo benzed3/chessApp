@@ -71,14 +71,14 @@ h3 {
 
 #whiteRook2 {
     max-width: 60%;
-    max-height: 55px;
+    max-height: 59px;
     margin: auto;
     display: block;
 }
 
 #wr2 {
     position: absolute;
-    bottom: 59px;
+    bottom: 52px;
     width: 75px;
     height: 59px;
 }
