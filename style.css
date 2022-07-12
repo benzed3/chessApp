@@ -56,8 +56,8 @@ h3 {
 
 /*white rooks*/
 #whiteRook1 {
-    max-width: 60%;
-    max-height: 55px;
+    width: 60%;
+    height: 55px;
     margin: auto;
     display: block;
 }
