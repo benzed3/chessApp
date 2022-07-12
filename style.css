@@ -85,7 +85,7 @@ h3 {
 
 /*black rooks*/
 #blackRook1 {
-    width: 60%;
+    width: 45%;
     height: 55px;
     margin: auto;
     display: block;
@@ -99,7 +99,7 @@ h3 {
 }
 
 #blackRook2 {
-    width: 60%;
+    width: 45%;
     height: 55px;
     margin: auto;
     display: block;
