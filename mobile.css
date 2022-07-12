@@ -6,15 +6,12 @@
     }
 
     /*white rook 1*/
-    #wr {
-        bottom: 643px;
-        height: 55px;
+    #whiteRook1 {
+        max-height: 63px;
     }
 
-    /*black rook 1*/
-    #br {
-        top: 143px;
-        width: 75px;
+    #wr {
+        bottom: 643px;
         height: 55px;
     }
 
