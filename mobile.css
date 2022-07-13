@@ -269,20 +269,20 @@
 
     /*white rook 1*/
     #wr {
-        bottom: 180px;
-        height: 55px;
+        bottom: 178px;
+        height: 59px;
+    }
+
+    /*white rook 2*/
+    #wr2 {
+        bottom: 178px;
+        height: 59px;
     }
 
     /*black rook 1*/
     #br {
         top: 151px;
         width: 75px;
-        height: 55px;
-    }
-
-    /*white rook 2*/
-    #wr2 {
-        bottom: 180px;
         height: 55px;
     }
 
