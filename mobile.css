@@ -299,20 +299,28 @@
         height: 55px;
     }
 
-    /*black knight 1*/
-    #bn {
-        top: 151px;
-        width: 75px;
-        height: 55px;
-    }
-
     /*white knight 2*/
     #wn2 {
         bottom: 180px;
         height: 55px;
     }
 
+    /*black knight 1*/
+    #blackKnight1 {
+        max-height: 61px;
+    }
+
+    #bn {
+        top: 151px;
+        width: 75px;
+        height: 55px;
+    }
+
     /*black knight 2*/
+    #blackKnight2 {
+        max-height: 61px;
+    }
+
     #bn2 {
         top: 151px;
         width: 75px;
