@@ -364,14 +364,14 @@
     /*white queen*/
     #wq {
         bottom: 180px;
-        height: 55px;
+        height: 60px;
     }
 
     /*black queen*/
     #bq {
         top: 150px;
         width: 75px;
-        height: 55px;
+        height: 60px;
     }
 
     /*white king*/
