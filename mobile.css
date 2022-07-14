@@ -371,10 +371,14 @@
     #bq {
         top: 149px;
         width: 75px;
-        height: 60px;
+        height: 66px;
     }
 
     /*white king*/
+    #whiteKing {
+        max-height: 66px;
+    }
+
     #wk {
         bottom: 180px;
         height: 55px;
