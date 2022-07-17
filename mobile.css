@@ -657,59 +657,59 @@
 
     /*black pawns*/
     #pawna {
-        left: 126px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 123px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
     #pawnb {
-        left: 204px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 198px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
     #pawnc {
-        left: 279px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 273px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
     #pawnd {
-        left: 353px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 347px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
     #pawne {
-        left: 428px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 423px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
     #pawnf {
-        left: 502px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 497px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
     #pawng {
-        left: 578px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 572px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
     #pawnh {
-        left: 653px;
-        top: 213px;
-        width: 40px;
-        height: 45px;
+        left: 648px;
+        top: 206px;
+        width: 50px;
+        height: 55px;
     }
 
 }
