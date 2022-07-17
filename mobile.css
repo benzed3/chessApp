@@ -527,15 +527,16 @@
         bottom: 467px;
     }
 
-    /*black rook 1*/
-    #br {
-        top: 130px;
-        width: 75px;
-    }
-
     /*white rook 2*/
     #wr2 {
         bottom: 467px;
+    }
+
+    /*black rook 1*/
+    #br {
+        top: 133px;
+        width: 48px;
+        left: 124px;
     }
 
     /*black rook 2*/
