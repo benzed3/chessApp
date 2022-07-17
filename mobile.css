@@ -588,11 +588,17 @@
     /*white bishop 1*/
     #wb {
         bottom: 467px;
+        width: 42px;
+        height: 51.99px;
+        left: 277px;
     }
 
     /*white bishop 2*/
     #wb2 {
         bottom: 467px;
+        width: 42px;
+        height: 51.99px;
+        left: 500px;
     }
 
     /*black bishop 1*/
