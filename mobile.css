@@ -568,7 +568,9 @@
     /*black knight 2*/
     #bn2 {
         top: 131px;
-        width: 75px;
+        width: 66px;
+        height: 60px;
+        left: 565px;
     }
 
     /*white bishop 1*/
