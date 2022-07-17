@@ -537,6 +537,7 @@
         top: 133px;
         width: 48px;
         left: 124px;
+        height: 55.06px;
     }
 
     /*black rook 2*/
@@ -553,8 +554,8 @@
 
     /*black knight 1*/
     #bn {
-        top: 131px;
-        width: 75px;
+        top: 133px;
+        width: 66px;
     }
 
     /*white knight 2*/
