@@ -541,8 +541,9 @@
 
     /*black rook 2*/
     #br2 {
-        top: 130px;
-        width: 75px;
+        top: 133px;
+        width: 48px;
+        left: 650px;
     }
 
     /*white knight 1*/
