@@ -578,15 +578,15 @@
         bottom: 467px;
     }
 
+    /*white bishop 2*/
+    #wb2 {
+        bottom: 467px;
+    }
+
     /*black bishop 1*/
     #bb {
         top: 132px;
         width: 75px;
-    }
-
-    /*white bishop 2*/
-    #wb2 {
-        bottom: 467px;
     }
 
     /*black bishop 2*/
