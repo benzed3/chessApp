@@ -593,8 +593,10 @@
 
     /*black bishop 2*/
     #bb2 {
-        top: 132px;
-        width: 75px;
+        top: 135px;
+        width: 51px;
+        left: 497px;
+        height: 52.94px;
     }
 
     /*white queen*/
