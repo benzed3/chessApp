@@ -556,11 +556,13 @@
     /*white knight 1*/
     #wn {
         bottom: 467px;
+        width: 43px;
     }
 
     /*white knight 2*/
     #wn2 {
         bottom: 467px;
+        width: 43px;
     }
 
     /*black knight 1*/
