@@ -619,7 +619,8 @@
 
     /*white queen*/
     #wq {
-        bottom: 467px;
+        bottom: 465px;
+        height: 60px;
     }
 
     /*black queen*/
