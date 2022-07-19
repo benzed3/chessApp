@@ -761,12 +761,18 @@
 
     /*white knight 1*/
     #wn {
-        bottom: 88px;
+        bottom: 91px;
+        width: 39px;
+        height: 44.75px;
+        left: 383px;
     }
 
     /*white knight 2*/
     #wn2 {
-        bottom: 88px;
+        bottom: 91px;
+        width: 39px;
+        height: 44.75px;
+        left: 762px;
     }
 
     /*black knight 1*/
