@@ -800,6 +800,11 @@
         bottom: 88px;
     }
 
+    /*black queen*/
+    #bq {
+        height: 60px;
+    }
+
     /*white king*/
     #wk {
         bottom: 88px;
