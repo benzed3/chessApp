@@ -764,16 +764,25 @@
         bottom: 88px;
     }
 
-    /*black knight 1*/
-    #bn {
-        top: 150px;
-        width: 75px;
-        height: 55px;
-    }
-
     /*white knight 2*/
     #wn2 {
         bottom: 88px;
+    }
+
+    /*black knight 1*/
+    #bn {
+        top: 152px;
+        width: 62px;
+        height: 55.8px;
+        left: 373px;
+    }
+
+    /*black knight 2*/
+    #bn2 {
+        top: 152px;
+        width: 62px;
+        height: 55.8px;
+        left: 746px;
     }
 
     /*white bishop 1*/
