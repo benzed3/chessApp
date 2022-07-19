@@ -744,14 +744,19 @@
         bottom: 88px;
     }
 
+    /*white rook 2*/
+    #wr2 {
+        bottom: 88px;
+    }
+
     /*black rook 1*/
     #br {
         top: 150px;
     }
 
-    /*white rook 2*/
-    #wr2 {
-        bottom: 88px;
+    /*black rook 2*/
+    #br2 {
+        top: 150px;
     }
 
     /*white knight 1*/
