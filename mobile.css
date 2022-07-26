@@ -1548,11 +1548,12 @@
         left: 582px;
     }
 
-    /*black queen*/
+    /*white queen*/
     #wq {
-        bottom: 14px;
+        bottom: 18px;
         width: 41px;
         left: 460px;
+        height: 51.03px;
     }
 
     /*black queen*/
