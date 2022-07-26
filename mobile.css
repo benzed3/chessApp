@@ -890,12 +890,22 @@
     }
 
     /*white knight 1*/
+    #whiteKnight1 {
+        max-height: 48px;
+    }
+
     #wn {
         bottom: 68px;
+        height: 48px;
     }
 
     /*white knight 2*/
+    #whiteKnight2 {
+        max-height: 48px;
+    }
+
     #wn2 {
+        height: 48px;
         bottom: 68px;
     }
 
