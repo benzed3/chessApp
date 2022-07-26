@@ -1103,11 +1103,17 @@
     /*white bishop 1*/
     #wb {
         bottom: 313px;
+        width: 44px;
+        height: 54.47px;
+        left: 250px;
     }
 
     /*white bishop 2*/
     #wb2 {
         bottom: 313px;
+        width: 44px;
+        height: 54.47px;
+        left: 476px;
     }
 
     /*black bishop 1*/
