@@ -1567,7 +1567,9 @@
     /*white king*/
     #wk {
         bottom: 15px;
-        left: 507px;
+        left: 527px;
+        width: 33.5px;
+        height: 55.55px;
     }
 
     /*black king*/
