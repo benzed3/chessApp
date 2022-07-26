@@ -1046,18 +1046,30 @@
 
     /*white rook 1*/
     #wr {
-        bottom: 313px;
+        bottom: 309px;
+        left: 92px;
     }
 
     /*white rook 2*/
     #wr2 {
-        bottom: 313px;
+        bottom: 309px;
+        left: 618px;
+    }
+
+    /*black rook 1*/
+    #br {
+        left: 96px;
+        top: 133px;
+        width: 48px;
+        height: 55.06px;
     }
 
     /*black rook 2*/
     #br2 {
-        top: 130px;
-        width: 75px;
+        top: 133px;
+        width: 48px;
+        left: 624px;
+        height: 55.06px;
     }
 
     /*white knight 1*/
