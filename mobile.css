@@ -1112,12 +1112,16 @@
     #bb {
         top: 132px;
         width: 75px;
+        height: 57px;
+        left: 233px;
     }
 
     /*black bishop 2*/
     #bb2 {
         top: 132px;
         width: 75px;
+        height: 57px;
+        left: 460px;
     }
 
     /*white queen*/
