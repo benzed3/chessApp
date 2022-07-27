@@ -1807,10 +1807,10 @@
 
     /*white queen*/
     #wq {
-        bottom: 119px;
-        left: 216px;
-        width: 43px;
-        height: 53.51px;
+        bottom: 121px;
+        left: 218px;
+        width: 40px;
+        height: 49.78px;
     }
 
     /*black queen*/
@@ -1824,7 +1824,9 @@
     /*white king*/
     #wk {
         bottom: 118px;
-        left: 267px;
+        left: 284px;
+        width: 34px;
+        height: 56.38px;
     }
 
     /*black king*/
