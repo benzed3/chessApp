@@ -2516,18 +2516,18 @@
 
     /*black rook 1*/
     #br {
-        top: 82px;
+        top: 84px;
         left: 302px;
         width: 25px;
-        height: 25px;
+        height: 28.68px;
     }
 
     /*black rook 2*/
     #br2 {
-        top: 82px;
+        top: 84px;
         left: 568px;
         width: 25px;
-        height: 25px;
+        height: 28.68px;
     }
 
     /*white knight 1*/
