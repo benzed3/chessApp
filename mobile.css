@@ -2035,18 +2035,18 @@
 
     /*white bishop 1*/
     #wb {
-        bottom: 28px;
-        width: 36px;
+        bottom: 31px;
+        width: 32.5px;
         left: 262px;
-        height: 44.56px;
+        height: 40.23px;
     }
 
     /*white bishop 2*/
     #wb2 {
-        bottom: 28px;
-        width: 36px;
+        bottom: 31px;
+        width: 32.5px;
         left: 422px;
-        height: 44.56px;
+        height: 40.23px;
     }
 
     /*black bishop*/
@@ -2067,10 +2067,10 @@
 
     /*white queen*/
     #wq {
-        bottom: 28px;
-        width: 38px;
+        bottom: 30px;
+        width: 35px;
         left: 316px;
-        height: 47.29px;
+        height: 43.56px;
     }
 
     /*black queen*/
