@@ -2760,18 +2760,18 @@
 
     /*white rook 1*/
     #wr {
-        bottom: 440px;
-        width: 40px;
+        bottom: 442px;
+        width: 36px;
         left: 22px;
-        height: 42.54px;
+        height: 38.28px;
     }
 
     /*white rook 2*/
     #wr2 {
-        bottom: 440px;
-        width: 40px;
+        bottom: 442px;
+        width: 36px;
         left: 350px;
-        height: 42.54px;
+        height: 38.28px;
     }
 
     /*black rook 1*/
