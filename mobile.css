@@ -2827,18 +2827,18 @@
 
     /*white bishop 1*/
     #wb {
-        bottom: 441px;
-        width: 32px;
+        bottom: 443px;
+        width: 29.5px;
         left: 120px;
-        height: 39.61px;
+        height: 36.51px;
     }
 
     /*white bishop 2*/
     #wb2 {
-        bottom: 441px;
-        width: 32px;
+        bottom: 443px;
+        width: 29.5px;
         left: 260px;
-        height: 39.61px;
+        height: 36.51px;
     }
 
     /*black bishop 1*/
