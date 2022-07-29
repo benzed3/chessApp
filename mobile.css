@@ -3305,18 +3305,18 @@
 
     /*white rook 1*/
     #wr {
-        bottom: 377px;
-        width: 40px;
+        bottom: 379px;
+        width: 36px;
         left: 14px;
-        height: 42.54px;
+        height: 38.28px;
     }
 
     /*white rook 2*/
     #wr2 {
-        bottom: 377px;
-        width: 40px;
-        left: 340px;
-        height: 42.54px;
+        bottom: 379px;
+        width: 36px;
+        left: 342px;
+        height: 38.28px;
     }
 
     /*black rook 1*/
