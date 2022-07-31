@@ -4306,19 +4306,17 @@
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
         top: 88px;
-        width: 35px;
-        height: 75px;
-        left: 105px;
+        width: 36px;
+        height: 37.36px;
+        left: 103px;
     }
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
         top: 88px;
-        width: 35px;
-        height: 75px;
+        width: 36px;
+        height: 37.36px;
         left: 235px;
     }
 
