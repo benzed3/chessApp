@@ -3792,15 +3792,15 @@
 
     /*white rook 1*/
     #wr {
-        bottom: 370px;
+        bottom: 371px;
         left: 12px;
-        height: 35.56px;
+        height: 38.28px;
     }
 
     #wr2 {
-        bottom: 370px;
+        bottom: 371px;
         left: 341px;
-        height: 35.56px;
+        height: 38.28px;
     }
 
     /*black rook 1*/
@@ -3813,13 +3813,13 @@
 
     /*white knight 1*/
     #wn {
-        bottom: 371px;
-        left: 61px;
+        bottom: 374px;
+        left: 64px;
     }
 
     #wn2 {
-        bottom: 371px;
-        left: 296px;
+        bottom: 374px;
+        left: 299px;
     }
 
     /*black knight*/
