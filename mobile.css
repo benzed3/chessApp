@@ -3853,8 +3853,14 @@
         position: absolute;
         top: 107px;
         width: 35px;
-        height: 75px;
+        height: 36.33px;
         left: 107px;
+    }
+
+    /*black bishop 2*/
+    #bb2 {
+        height: 36.33px;
+        left: 248px;
     }
 
     /*white queen*/
