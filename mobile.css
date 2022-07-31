@@ -4346,10 +4346,9 @@
 
     /*black king*/
     #bk {
-        position: absolute;
         top: 86px;
         width: 28px;
-        height: 75px;
+        height: 39.92px;
         left: 195px;
     }
 
@@ -4357,41 +4356,57 @@
     #pawnaa {
         bottom: 282px;
         left: 19px;
+        width: 28px;
+        height: 32.74px;
     }
 
     #pawnbb {
         bottom: 282px;
         left: 64px;
+        width: 28px;
+        height: 32.74px;
     }
 
     #pawncc {
         bottom: 282px;
         left: 107px;
+        width: 28px;
+        height: 32.74px;
     }
 
     #pawndd {
         bottom: 282px;
         left: 151px;
+        width: 28px;
+        height: 32.74px;
     }
 
     #pawnee {
         bottom: 282px;
         left: 193px;
+        width: 28px;
+        height: 32.74px;
     }
 
     #pawnff {
         bottom: 282px;
         left: 238px;
+        width: 28px;
+        height: 32.74px;
     }
 
     #pawngg {
         bottom: 282px;
         left: 282px;
+        width: 28px;
+        height: 32.74px
     }
 
     #pawnhh {
         bottom: 282px;
         left: 326px;
+        width: 28px;
+        height: 32.74px;
     }
 
     /*black pawns*/
