@@ -4274,20 +4274,18 @@
 
     /*black knight 1*/
     #bn {
-        position: absolute;
-        top: 88px;
-        width: 39px;
-        height: 39px;
-        left: 59px;
+        top: 87px;
+        width: 44px;
+        height: 39.6px;
+        left: 57px;
     }
 
     /*black knight 2*/
     #bn2 {
-        position: absolute;
-        top: 88px;
-        width: 39px;
-        height: 39px;
-        left: 279px;
+        top: 87px;
+        width: 44px;
+        height: 39.6px;
+        left: 275px;
     }
 
     /*white bishop 1*/
