@@ -4330,11 +4330,10 @@
 
     /*black queen*/
     #bq {
-        position: absolute;
-        top: 89px;
-        width: 21px;
-        height: 75px;
-        left: 156px;
+        top: 88px;
+        width: 23px;
+        height: 37.5px;
+        left: 155px;
     }
 
     /*white king*/
