@@ -4010,21 +4010,25 @@
 
     /*white knight 1*/
     #wn {
-        bottom: 13px;
-        left: 315px;
+        bottom: 14px;
+        left: 317px;
+        width: 22px;
+        height: 25.24px;
     }
 
     /*white knight 2*/
     #wn2 {
-        bottom: 13px;
-        left: 502px;
+        bottom: 14px;
+        left: 504px;
+        width: 22px;
+        height: 25.24px;
     }
 
     /*black knight 1*/
     #bn {
         top: 85px;
         width: 35px;
-        height: 75px;
+        height: 31.5px;
         left: 311px;
     }
 
@@ -4032,7 +4036,7 @@
     #bn2 {
         top: 85px;
         width: 35px;
-        height: 75px;
+        height: 31.5px;
         left: 497px;
     }
 
