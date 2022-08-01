@@ -4603,10 +4603,9 @@
 
     /*black king*/
     #bk {
-        position: absolute;
         top: 70px;
         width: 23px;
-        height: 75px;
+        height: 32.8px;
         left: 339px;
     }
 
