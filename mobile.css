@@ -4763,20 +4763,18 @@
 
     /*black rook 1*/
     #br {
-        position: absolute;
         top: 99px;
         left: 11px;
         width: 29px;
-        height: 29px;
+        height: 33.26px;
     }
 
     /*black rook 2*/
     #br2 {
-        position: absolute;
         top: 99px;
         left: 320px;
         width: 29px;
-        height: 29px;
+        height: 33.26px;
     }
 
     /*white knight 1*/
