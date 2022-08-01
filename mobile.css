@@ -4795,20 +4795,18 @@
 
     /*black knight 1*/
     #bn {
-        position: absolute;
         top: 99px;
-        width: 37px;
-        height: 75px;
-        left: 53px;
+        width: 43px;
+        height: 38.7px;
+        left: 50px;
     }
 
     /*black knight 2*/
     #bn2 {
-        position: absolute;
         top: 99px;
-        width: 37px;
-        height: 75px;
-        left: 273px;
+        width: 43px;
+        height: 38.7px;
+        left: 268px;
     }
 
     /*white bishop 1*/
