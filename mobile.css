@@ -4532,20 +4532,18 @@
 
     /*black knight 1*/
     #bn {
-        position: absolute;
         top: 72px;
-        width: 32px;
-        height: 75px;
-        left: 224px;
+        width: 35px;
+        height: 31.5px;
+        left: 222px;
     }
 
     /*black knight 2*/
     #bn2 {
-        position: absolute;
         top: 72px;
-        width: 32px;
-        height: 75px;
-        left: 413px;
+        width: 35px;
+        height: 31.5px;
+        left: 410px;
     }
 
     /*white bishop 1*/
