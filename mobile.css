@@ -4844,17 +4844,16 @@
     /*white queen*/
     #wq {
         bottom: 301px;
-        left: 144px;
+        left: 147px;
         width: 29px;
         height: 36.09px;
     }
 
     /*black queen*/
     #bq {
-        position: absolute;
         top: 98px;
-        width: 21px;
-        height: 75px;
+        width: 22px;
+        height: 35.86px;
         left: 148px;
     }
 
