@@ -5199,67 +5199,59 @@
 
     /*black pawns*/
     #pawna {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 237px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 233px;
     }
 
     #pawnb {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 272px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 268px;
     }
 
     #pawnc {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 307px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 303px;
     }
 
     #pawnd {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 343px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 339px;
     }
 
     #pawne {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 377px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 373px;
     }
 
     #pawnf {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 412px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 408px;
     }
 
     #pawng {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 447px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 443px;
     }
 
     #pawnh {
-        position: absolute;
-        top: 102px;
-        width: 21px;
-        height: 75px;
-        left: 483px;
+        top: 98px;
+        width: 29px;
+        height: 32.16px;
+        left: 479px;
     }
 
 }
