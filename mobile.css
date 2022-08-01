@@ -5118,9 +5118,10 @@
 
     /*black queen*/
     #bq {
-        top: 66px;
-        left: 345px;
-        width: 16px;
+        top: 64px;
+        left: 344px;
+        width: 19px;
+        height: 30.98px;
     }
 
     /*white king*/
