@@ -4564,19 +4564,17 @@
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
         top: 73px;
         width: 27px;
-        height: 75px;
+        height: 28.03px;
         left: 263px;
     }
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
         top: 73px;
         width: 27px;
-        height: 75px;
+        height: 28.03px;
         left: 377px;
     }
 
