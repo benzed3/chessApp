@@ -4500,20 +4500,18 @@
 
     /*black rook 1*/
     #br {
-        position: absolute;
         top: 73px;
         left: 189px;
         width: 25px;
-        height: 25px;
+        height: 28.68px;
     }
 
     /*black rook 2*/
     #br2 {
-        position: absolute;
         top: 73px;
-        left: 455px;
+        left: 454px;
         width: 25px;
-        height: 25px;
+        height: 28.68px;
     }
 
     /*white knight*/
