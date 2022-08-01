@@ -5134,7 +5134,6 @@
 
     /*black king*/
     #bk {
-        position: absolute;
         top: 65px;
         width: 21px;
         height: 75px;
@@ -5143,59 +5142,59 @@
 
     /*white pawns*/
     #pawnaa {
-        bottom: 58px;
-        left: 238px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 234px;
+        width: 26px;
+        height: 30.4px;
     }
 
     #pawnbb {
-        bottom: 58px;
-        left: 273px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 270px;
+        width: 26px;
+        height: 30.4px;
     }
 
     #pawncc {
-        bottom: 58px;
-        left: 309px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 304px;
+        width: 26px;
+        height: 30.4px;
     }
 
     #pawndd {
-        bottom: 58px;
-        left: 343px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 340px;
+        width: 26px;
+        height: 30.4px;
     }
 
     #pawnee {
-        bottom: 58px;
-        left: 378px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 374px;
+        width: 26px;
+        height: 30.4px;
     }
 
     #pawnff {
-        bottom: 58px;
-        left: 413px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 410px;
+        width: 26px;
+        height: 30.4px;
     }
 
     #pawngg {
-        bottom: 58px;
-        left: 448px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 445px;
+        width: 26px;
+        height: 30.4px;
     }
 
     #pawnhh {
-        bottom: 58px;
-        left: 484px;
-        width: 21px;
-        height: 24.55px;
+        bottom: 55px;
+        left: 481px;
+        width: 26px;
+        height: 30.4px;
     }
 
     /*black pawns*/
