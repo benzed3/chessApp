@@ -4827,20 +4827,18 @@
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
         top: 101px;
-        width: 31px;
-        height: 75px;
+        width: 32px;
+        height: 32.21px;
         left: 98px;
     }
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
         top: 101px;
-        width: 31px;
-        height: 75px;
-        left: 230px;
+        width: 32px;
+        height: 32.21px;
+        left: 229.5px;
     }
 
     /*white queen*/
