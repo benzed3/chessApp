@@ -5030,20 +5030,18 @@
 
     /*black rook 1*/
     #br {
-        position: absolute;
-        top: 66px;
-        left: 235px;
-        width: 23px;
-        height: 23px;
+        top: 64px;
+        left: 234px;
+        width: 26px;
+        height: 29.83px;
     }
 
     /*black rook 2*/
     #br2 {
-        position: absolute;
-        top: 66px;
-        left: 482px;
-        width: 23px;
-        height: 23px;
+        top: 64px;
+        left: 480px;
+        width: 26px;
+        height: 29.83px;
     }
 
     /*white knight 1*/
