@@ -5402,10 +5402,9 @@
 
     /*black king*/
     #bk {
-        position: absolute;
         top: 64px;
         width: 19px;
-        height: 75px;
+        height: 27.09px;
         left: 146px;
     }
 
