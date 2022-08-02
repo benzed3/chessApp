@@ -5378,18 +5378,17 @@
 
     /*white queen*/
     #wq {
-        bottom: 345px;
-        left: 115px;
-        width: 20px;
-        height: 24.89px;
+        bottom: 343px;
+        left: 114px;
+        width: 22px;
+        height: 27.38px;
     }
 
     /*black queen*/
     #bq {
-        position: absolute;
-        top: 65px;
-        width: 15px;
-        height: 75px;
+        top: 64px;
+        width: 17px;
+        height: 27.71px;
         left: 116px;
     }
 
