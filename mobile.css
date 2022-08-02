@@ -5603,33 +5603,31 @@
     #wb {
         bottom: 14px;
         left: 279px;
-        width: 18px;
-        height: 22.28px;
+        width: 19px;
+        height: 23.51px;
     }
 
     /*white bishop 2*/
     #wb2 {
         bottom: 14px;
-        left: 357px;
-        width: 18px;
-        height: 22.28px;
+        left: 356px;
+        width: 19px;
+        height: 23.51px;
     }
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
-        top: 65px;
-        width: 21px;
-        height: 75px;
-        left: 277px;
+        top: 64px;
+        width: 22px;
+        height: 22.84px;
+        left: 276px;
     }
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
-        top: 65px;
-        width: 21px;
-        height: 75px;
+        top: 64px;
+        width: 22px;
+        height: 22.84px;
         left: 355px;
     }
 
