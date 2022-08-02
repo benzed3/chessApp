@@ -5569,36 +5569,34 @@
 
     /*white knight*/
     #wn {
-        bottom: 19px;
-        left: 256px;
-        width: 13px;
-        height: 14.91px;
+        bottom: 13.25px;
+        left: 252px;
+        width: 21px;
+        height: 24.09px;
     }
 
     /*white knight 2*/
     #wn2 {
-        bottom: 19px;
-        left: 385px;
-        width: 13px;
-        height: 14.91px;
+        bottom: 13.25px;
+        left: 381px;
+        width: 21px;
+        height: 24.09px;
     }
 
     /*black knight 1*/
     #bn {
-        position: absolute;
-        top: 66px;
-        width: 21px;
-        height: 75px;
-        left: 252px;
+        top: 63px;
+        width: 27px;
+        height: 24.3px;
+        left: 249.25px;
     }
 
     /*black knight 2*/
     #bn2 {
-        position: absolute;
-        top: 66px;
-        width: 21px;
-        height: 75px;
-        left: 381px;
+        top: 63px;
+        width: 27px;
+        height: 24.3px;
+        left: 378px;
     }
 
     /*white bishop 1*/
