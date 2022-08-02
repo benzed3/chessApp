@@ -5362,20 +5362,18 @@
 
     /*black bishop 1*/
     #bb {
-        position: absolute;
-        top: 66px;
-        width: 24px;
-        height: 75px;
-        left: 81px;
+        top: 64px;
+        width: 27px;
+        height: 28.03px;
+        left: 79px;
     }
 
     /*black bishop 2*/
     #bb2 {
-        position: absolute;
-        top: 66px;
-        width: 24px;
-        height: 75px;
-        left: 175px;
+        top: 64px;
+        width: 27px;
+        height: 28.03px;
+        left: 173px;
     }
 
     /*white queen*/
