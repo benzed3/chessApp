@@ -5553,20 +5553,18 @@
 
     /*black rook 1*/
     #br {
-        position: absolute;
-        top: 66px;
-        left: 229px;
-        width: 16px;
-        height: 16px;
+        top: 63px;
+        left: 226px;
+        width: 21px;
+        height: 24.09px;
     }
 
     /*black rook 2*/
     #br2 {
-        position: absolute;
-        top: 66px;
-        left: 409px;
-        width: 16px;
-        height: 16px;
+        top: 63px;
+        left: 407px;
+        width: 21px;
+        height: 24.09px;
     }
 
     /*white knight*/
